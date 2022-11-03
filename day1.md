@@ -63,7 +63,7 @@ They should explain the pricing - particularly that the free account is all they
 
 Whilst folks are signing up and creating their accounts, the speaker can then do a basic run through of what both Git and GitHub are.
 
-<!-- TODO - provide a slide deck on Git and GitHub -->
+You can find this session in the [presentations/get-signed-up-with-github](./presentations/get-signed-up-with-github/) folder.
 
 Mentors will need to be on-hand to help attendees with any issues around sign up.
 
