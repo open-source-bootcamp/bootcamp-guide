@@ -13,17 +13,18 @@
 				"DavidAnson.vscode-markdownlint",
 				"shd101wyy.markdown-preview-enhanced",
 				"bierner.github-markdown-preview",
-				"antfu.slidev",
-				"vue.volar"
+				"antfu.slidev"
 			]
 		}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
+	"forwardPorts": [
+		3030
+	],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "",
+	"postCreateCommand": "cd /workspaces/bootcamp-guide/presentations/contributions-licensing && npm install && cd /workspaces/bootcamp-guide/presentations/get-signed-up-with-github && npm install",
 
 	// Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
