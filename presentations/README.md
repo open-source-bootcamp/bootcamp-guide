@@ -45,3 +45,19 @@ To use the slides:
 
 * [Get signed up for GitHub](./get-signed-up-with-github/)
 * [Contributions, CLAs, and License agreements](./contributions-licensing/)
+
+## FAQ
+
+* **Why aren't these slides hosted somewhere so I don't need to clone this repo**
+
+    Great question! We wanted to allow you to add your personal details like name, social handle, image etc. The easiest way to do this is for you to run these slides locally
+
+* **Once customized with my details can I host my slides anywhere**
+
+    Yes! From the folder containing the presentation you want to host, run:
+
+    ```bash
+    npx slidev build
+    ```
+
+    This will build a single page application (SPA) in a subfolder called `dist` that you can host with services like [GitHub pages](https://pages.github.com) or [Netlify](https://www.netlify.com).

@@ -1,15 +1,14 @@
 ---
-# try also 'default' to start simple
 theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: 'jimbobbennett.dev'
-    handle: 'jimbobbennett'
-    logoHeader: 'https://www.dawntraoz.com/images/logo.svg'
+    website: ''
+    handle: ''
+    logoHeader: ''
 
 layout: intro
-introImage: 'https://jimbobbennett.dev/images/png/jim-portrait-circle.png'
+introImage: ''
 ---
 
 # Contributing, CLAs, and Licensing
