@@ -210,6 +210,32 @@ You are now signed up, ready to commit code or contribute to others!
 
 ---
 layout: intro
+introImage: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/get-signed-up-with-github/sdp-backpack.png?raw=true'
+---
+
+# GitHub Global Campus
+
+[education.github.com/students](https://education.github.com/students)
+
+<!--
+
+NOTE: Feel free to skip this slide if the audience doesn't have any students. To skip delete the above link, header, and front matter (the bits between the --- including both sets of ---)
+
+If you are a student, you should sign up for the GitHub global campus. You will need either an academic email address or access to student ID or other proof of student status. It may take a while to be verified if GitHub needs to manually verify your student status.
+
+This includes:
+
+* The student developer pack that unlocks a whole load of offers that you can use with your GitHub account including cloud services and developer tools.
+* The opportunity to become a campus expert
+* Access to paid internships and mentorship opportunities
+
+
+NOTE: This is not necessary to complete this event. If all your attendees are students then give them time to sign up, but if only some are students encourage them to sign up after the event or during breaks.
+
+-->
+
+---
+layout: intro
 introImage: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/get-signed-up-with-github/github-desktop-round.png?raw=true'
 ---
 
@@ -324,7 +350,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 layout: center
 ---
 
-# Done
+# Done!
 
 <!--
 

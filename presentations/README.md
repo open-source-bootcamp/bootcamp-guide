@@ -39,11 +39,14 @@ To use the slides:
 
 1. This will launch SliDev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
-1. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required.
+1. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required. The speaker notes are included as HTML comments in the markdown in the `slide.md` files.
 
 ## List of presentations
 
 * [Get signed up for GitHub](./get-signed-up-with-github/)
+
+    This deck includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
+
 * [Contributions, CLAs, and License agreements](./contributions-licensing/)
 
 ## FAQ
