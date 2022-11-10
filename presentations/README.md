@@ -45,7 +45,13 @@ To use the slides:
 
 * [Get signed up for GitHub](./get-signed-up-with-github/)
 
-    This deck includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
+    These slide includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
+
+* [Introduction to GitHub](./intro-to-github/)
+
+    These slides have embedded YouTube videos. You will need to ensure you are presenting in a way that the audience can hear the audio from your computer. If not, you **MUST** turn on captions on the videos. Ideally captions should always be turned on.
+
+    There is also an image of a GitHub profile taken from [@JimBobBennett](https://github.com/JimBobBennett). Replace this with an equivalent screenshot of your own GitHub profile.
 
 * [Contributions, CLAs, and License agreements](./contributions-licensing/)
 

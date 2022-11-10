@@ -10,6 +10,14 @@ We have found that this event is best run in-person, and to do so you will need 
 * **WiFi**. This event relies on accessing remote git repos and GitHub.com, so every attendee will need access to WiFi.
 * **Power**. Each day of this event will have at least 4 hours of hands on time, so attendees will need laptop power for this. You cannot guarantee every attendee will have a laptop that is charged, or even has a working battery, or one that can last this long. Therefore you will need to be able to provide power to everyone who needs it.
 
+### Presentation system
+
+The venue will need a way to clearly present the slides and walk attendees through code. This can be a large projector or screen at the front of the venue, or multiple smaller screens. If this is not possible, you can use tools like StreamYard or video chat tools to stream your content in a way that attendees can watch on-line.
+
+Make sure the room is laid out in a way that attendees are able to clearly see screens without needing to turn their bodies. If the screens are not straight on, then chairs must be movable.
+
+Some of the slides include embedded YouTube videos. When playing these, the presentation system will need to be able to play the audio at a decent volume. If this is not possible, then captions **MUST** be turned on. Ideally captions should always be turned on.
+
 ### Finding a venue
 
 Venues can be hard to find, or expensive if you need to pay. Some ideas to find a venue are:
@@ -37,8 +45,8 @@ Food has always been an important part of human bonding. Giving attendees time t
 
 * Provide food if possible, otherwise attendees will need to be instructed to bring their own food. Even if you provide food, ensure any attendees who bring their own food are welcomed and provided with cutlery, plates etc. If you can't provide a range of drinks, always provide water.
 * An event sponsor, such as a local tech company can be helpful here in paying for food. They make ask to present something about their company in return, and this can be ok if it is relevant to the audience. For example, tech recruiters like to sponsor events in the hope of finding talent that they can find jobs for.
-* If you do provide food, try to accommodate as many dietary requirements as possible. Include vegetarian and vegan food, as well as gluten and dairy free options. Clearly label these and ensure attendees don't cross contaminate (for example using a knife with pepperoni on it to cut a vegetarian pizza).
-* Avoid providing alcohol, even for the end of the day. This excludes attendees who avoid alcohol.
+* If you do provide food, try to accommodate as many dietary requirements as possible. Include vegetarian and vegan food, as well as gluten and dairy free options. Clearly label these and ensure attendees don't cross contaminate (for example using a knife with pepperoni on it to cut a vegetarian pizza). Be transparent on your food options so attendees know up front if their dietary requirements will be met. It's also worth asking your audience if possible if they have any dietary requirements.
+* Avoid providing alcohol, even for the end of the day. This excludes attendees who avoid alcohol, and can require additional checks around legal drinking ages or security if someone overindulges.
 * Be conscious of cultural requirements around food, such as periods of fasting.
 * Some attendees may wish to leave during times food is served. Make sure everyone knows what time the next portion of the day will resume so they can return in time.
 

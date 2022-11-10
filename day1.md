@@ -8,9 +8,9 @@ The aim of day 1 is to ensure every attendee is comfortable using Git and GitHub
 | ----- | -------- |
 | 09:30 | [Doors open and breakfast](#doors-open-and-breakfast) |
 | 10:00 | [Welcome](#welcome) |
-| 10:15 | [Get signed up with GitHub](#get-signed-up-with-github) |
-| 10:45 | [Networking opportunity - connect on GitHub](#networking-opportunity---connect-on-github) |
-| 10:55 | [Networking game](#networking-game) |
+| 10:15 | [Networking game](#networking-game) |
+| 10:25 | [Get signed up with GitHub](#get-signed-up-with-github) |
+| 10:55 | [Networking opportunity - connect on GitHub](#networking-opportunity---connect-on-github) |
 | 11:05 | [Introduction to GitHub](#introduction-to-github) |
 | 12:00 | [Lunch](#lunch) |
 | 12:55 | [Another networking game](#networking-game) |
@@ -49,19 +49,13 @@ If you do not already have a code of conduct for your event, there are plenty of
 * [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512?hl=en)
 * [Microsoft event code of conduct](https://www.microsoft.com/events/codeofconduct)
 
+## Networking game
+
+Encourage attendees to form small teams and complete a quick challenge. Ideas for such games are given [in the Networking games guide](./networking-games.md). This must be an optional activity, with team formation also being optional.
+
 ## Get signed up with GitHub
 
-Before attendees can get started, they need to have a GitHub account. This time is dedicated to introducing GitHub, directing folks to GitHub.com, talking through the account options and getting everyone signed up.
-
-Whoever is hosting this section should start by directing folks to sign up with GitHub:
-
-> Sign up at [github.com/signup](https://github.com/signup)
-
-Students should be directed to the [GitHub Student Developer pack](https://education.github.com/pack). This is only available to students at full time universities and colleges, and you will need to validate with your student email address. Bootcamp students and students without an academic email address will not be able to sign up for this.
-
-They should explain the pricing - particularly that the free account is all they need to contribute to open source. No credit card is needed, just an email address.
-
-Whilst folks are signing up and creating their accounts, the speaker can then do a basic run through of what both Git and GitHub are.
+Before attendees can get started, they need to have a GitHub account. This time is dedicated to introducing GitHub, directing folks to GitHub.com, talking through the account options and getting everyone signed up. After this, the attendees need to install a couple of tools to help work on code.
 
 You can find this session in the [presentations/get-signed-up-with-github](./presentations/get-signed-up-with-github/) folder.
 
@@ -69,13 +63,11 @@ Mentors will need to be on-hand to help attendees with any issues around sign up
 
 ## Networking opportunity - connect on GitHub
 
-As a networking opportunity get attendees to find each other on GitHub and follow each other. This will not only foster connections between attendees, and make it easier to collaborate later on in the day, but it will also teach them about the [social connection side of GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/following-people).
+As a networking opportunity get attendees to find each other on GitHub and follow each other. This will not only foster connections between attendees, and make it easier to collaborate later on in the day, but it will also teach them about the [social connection side of GitHub](https://docs.github.com/get-started/exploring-projects-on-github/following-people).
 
 > This must be optional so any attendees who do not wish to connect with others are not pressurized into doing so
 
-## Networking game
-
-Encourage attendees to form small teams and complete a quick challenge. Ideas for such games are given [below in the Networking games section](#networking-games).
+The presenter should start by asking a mentor their GitHub handle, finding them on GitHub at GitHub.com/[handle], then following them.
 
 ## Introduction to GitHub
 
@@ -92,7 +84,7 @@ Lunch is an opportunity for attendees to not only rest from learning to allow id
 * Provide tables so attendees can sit and eat together
 * Encourage mentors to sit with attendees rather than have a 'mentors table'. Networking is important, so attendees will want to hear the mentors journey into tech and learn from them.
 
-You can find more suggestions for the catering side of the lunch break in our [catering best practices section below](#catering).
+You can find more suggestions for the catering side of the lunch break in [the catering section in our how to run this event guide](./how-to-run-this-event.md#catering).
 
 ## Make your first contribution
 

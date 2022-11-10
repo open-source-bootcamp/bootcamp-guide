@@ -3,18 +3,17 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: 'jimbobbennett.dev'
-    handle: 'jimbobbennett'
+    website: ''
+    handle: ''
     logoHeader: ''
 
 layout: intro
-introImage: 'https://jimbobbennett.dev/images/png/jim-portrait-circle.png'
+introImage: ''
 ---
 
 # Get signed up with GitHub
 
 By: "Name"
-
 
 <!-- 
 Hi, I am name.
@@ -209,6 +208,40 @@ You are now signed up, ready to commit code or contribute to others!
 -->
 
 ---
+
+# Configure your GitHub profile
+
+Once you are signed up you can share information about yourself on your profile
+
+<!--
+
+Once you are signed up you can configure your profile to share more information about yourself such as your avatar, location, twitter handle, description and other information.
+
+To do this, click on your image in the top corner, then select settings.
+
+From there, select public profile and configure as necessary.
+
+From settings you can also configure things like dark mode!
+
+NOTE: Wait for the attendees to complete this step before you move on. Ask mentors to help if needed.
+
+-->
+
+---
+layout: image-center
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/get-signed-up-with-github/github-public-profile.png?raw=true'
+imageWidth: '700'
+---
+
+&nbsp;
+
+<!--
+
+Here's an example of the profile. Once set, this appears on your GitHub page at github.com/user
+
+-->
+
+---
 layout: intro
 introImage: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/get-signed-up-with-github/sdp-backpack.png?raw=true'
 ---
@@ -351,6 +384,8 @@ layout: center
 ---
 
 # Done!
+
+You are all setup and ready for this open source bootcamp
 
 <!--
 
