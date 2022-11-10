@@ -90,7 +90,7 @@ Ignore the instruction to click around in the class repository, that is for watc
 
 ---
 layout: image-center
-image: 'github-profile-jimbobbennett.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/github-profile-jimbobbennett.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -122,7 +122,7 @@ Head to GitHub.com/new to create a new repository. You can also access the same 
 
 ---
 layout: image-center
-image: 'new-repo-1.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-repo-1.png?raw=true'
 imageWidth: '700'
 ---
 
@@ -140,7 +140,7 @@ Add a description for the repo as well, such as 'My profile readme'. The descrip
 
 ---
 layout: image-center
-image: 'new-repo-2.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-repo-2.png?raw=true'
 imageWidth: '700'
 ---
 
@@ -158,7 +158,7 @@ Private repos are private to you and anyone you add as collaborators. Organizati
 
 ---
 layout: image-center
-image: 'new-repo-3.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-repo-3.png?raw=true'
 imageWidth: '700'
 ---
 
@@ -182,7 +182,7 @@ For now you can leave this set to None.
 
 ---
 layout: image-center
-image: 'new-repo-4.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-repo-4.png?raw=true'
 imageWidth: '700'
 ---
 
@@ -199,7 +199,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'new-repo-5.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-repo-5.png?raw=true'
 imageWidth: '900'
 ---
 
@@ -215,7 +215,7 @@ The README will be created for you with text that says 'Hi there 👋', along wi
 
 ---
 layout: image-center
-image: 'new-repo-6.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-repo-6.png?raw=true'
 imageWidth: '900'
 ---
 
@@ -264,7 +264,7 @@ This video also refers to master instead of main.
 
 ---
 layout: image-center
-image: 'new-branch-1.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-branch-1.png?raw=true'
 ---
 
 # Activity: Create a new branch
@@ -279,7 +279,7 @@ Type the name `my-first-branch` into the branch selector, and you will see an op
 
 ---
 layout: image-center
-image: 'new-branch-2.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/new-branch-2.png?raw=true'
 ---
 
 &nbsp;
@@ -296,7 +296,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'gitgraph-first-branch.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-first-branch.png?raw=true'
 imageWidth: '500'
 ---
 
@@ -326,7 +326,7 @@ Editing files can happen on GitHub, or you can take a copy of the repository on 
 
 ---
 layout: image-center
-image: 'edit-readme-1.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/edit-readme-1.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -344,7 +344,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'edit-readme-2.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/edit-readme-2.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -426,7 +426,7 @@ Lines that start with a - or a single asterisk are bullet points.
 
 ---
 layout: image-center
-image: 'edit-readme-3.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/edit-readme-3.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -452,7 +452,7 @@ Try making some changes to the markdown and previewing it.
 
 ---
 layout: image-center
-image: 'edit-readme-4.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/edit-readme-4.png?raw=true'
 imageWidth: 800
 ---
 
@@ -493,7 +493,7 @@ Against a commit you have to have a message that describes the change.
 
 ---
 layout: image-center
-image: 'edit-readme-5.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/edit-readme-5.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -517,7 +517,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'gitgraph-first-branch-commit.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-first-branch-commit.png?raw=true'
 imageWidth: '500'
 ---
 
@@ -578,7 +578,7 @@ This video also refers to master instead of main.
 
 ---
 layout: image-center
-image: 'raise-pr-1.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-1.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -598,7 +598,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'raise-pr-2.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-2.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -612,7 +612,7 @@ This is the pull request form. Lets look at it piece by piece.
 
 ---
 layout: image-center
-image: 'raise-pr-3.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-3.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -634,7 +634,7 @@ These merge conflicts will be covered in a later part of this bootcamp.
 
 ---
 layout: image-center
-image: 'raise-pr-4.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-4.png?raw=true'
 imageWidth: '600'
 ---
 
@@ -654,7 +654,7 @@ The description field is markdown, so you can style the text, add images, add li
 
 ---
 layout: image-center
-image: 'raise-pr-5.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-5.png?raw=true'
 imageWidth: '300'
 ---
 
@@ -672,7 +672,7 @@ You can also attach labels to PRs. For example, you can label by product area, l
 
 ---
 layout: image-center
-image: 'raise-pr-6.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-6.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -688,7 +688,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'raise-pr-7.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-7.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -733,7 +733,7 @@ This video also refers to master instead of main.
 
 ---
 layout: image-center
-image: 'raise-pr-7.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-7.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -747,7 +747,7 @@ The PR form allows you to review and merge your PR. Lets look at this in detail.
 
 ---
 layout: image-center
-image: 'merge-pr-1.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-1.png?raw=true'
 imageWidth: '400'
 ---
 
@@ -767,7 +767,7 @@ You can also merge or close the PR as unmerged from here.
 
 ---
 layout: image-center
-image: 'merge-pr-2.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-2.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -781,7 +781,7 @@ The commits tab shows all the commits made in this PR. You can look at individua
 
 ---
 layout: image-center
-image: 'merge-pr-3.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-3.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -797,7 +797,7 @@ You can make comments in-line in this view if you want to comment on specific li
 
 ---
 layout: image-center
-image: 'merge-pr-4.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-4.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -811,7 +811,7 @@ Let's merge this PR. We'll start by making a comment to say we are happy with th
 
 ---
 layout: image-center
-image: 'merge-pr-5.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-5.png?raw=true'
 imageWidth: '700'
 ---
 
@@ -827,7 +827,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'merge-pr-6.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-6.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -845,7 +845,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'gitgraph-merge-first-branch.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-merge-first-branch.png?raw=true'
 imageWidth: '600'
 ---
 
@@ -859,7 +859,7 @@ Once merged, the commit is added to the main branch
 
 ---
 layout: image-center
-image: 'merge-pr-7.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/merge-pr-7.png?raw=true'
 imageWidth: '800'
 ---
 
@@ -877,7 +877,7 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 
 ---
 layout: image-center
-image: 'gitgraph-main-final.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-main-final.png?raw=true'
 imageWidth: '600'
 ---
 

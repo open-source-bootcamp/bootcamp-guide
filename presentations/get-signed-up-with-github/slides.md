@@ -80,7 +80,7 @@ introImage: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/pr
 
 # GitHub
 
-[GitHub.com/signup](https://github.com/signup)
+The home for all developers — including you.
 
 <!--
 
@@ -91,6 +91,18 @@ GitHub is an online code repository running in the cloud. It's where millions of
 Code is stores in repositories, often shortened to repos. These are code stores that one or more developers has access to, and they store a full versioned history of the code changes made over time.
 
 GitHub is popular with open source projects. This is code that is built in the open with communities of people coming together to define the project and build software.
+
+-->
+
+---
+layout: center
+---
+
+<iframe width="728" height="410" src="https://www.youtube.com/embed/pBy1zgt0XPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
+
+Play this video, ideally in full screen, to give an overview of GitHub
 
 -->
 
