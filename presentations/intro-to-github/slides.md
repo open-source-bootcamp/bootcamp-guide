@@ -295,12 +295,15 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 -->
 
 ---
-layout: image-center
-image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-first-branch.png?raw=true'
-imageWidth: '500'
+layout: center
 ---
 
-&nbsp;
+```mermaid {scale: 2.0}
+gitGraph
+    commit id: "First commit"
+    branch my-first-branch
+    checkout my-first-branch
+```
 
 <!--
 
@@ -516,12 +519,16 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 -->
 
 ---
-layout: image-center
-image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-first-branch-commit.png?raw=true'
-imageWidth: '500'
+layout: center
 ---
 
-&nbsp;
+```mermaid {scale: 2.0}
+gitGraph
+    commit id: "First commit"
+    branch my-first-branch
+    checkout my-first-branch
+    commit id: "Profile README.md"
+```
 
 <!--
 
@@ -844,12 +851,18 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 -->
 
 ---
-layout: image-center
-image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-merge-first-branch.png?raw=true'
-imageWidth: '600'
+layout: center
 ---
 
-&nbsp;
+```mermaid {scale: 2.0}
+gitGraph
+    commit id: "First commit"
+    branch my-first-branch
+    checkout my-first-branch
+    commit id: "Profile README.md"
+    checkout main
+    merge my-first-branch
+```
 
 <!--
 
@@ -876,12 +889,15 @@ NOTE: Wait for the attendees to complete this step before you move on. Ask mento
 -->
 
 ---
-layout: image-center
-image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/gitgraph-main-final.png?raw=true'
-imageWidth: '600'
+layout: center
 ---
 
-&nbsp;
+```mermaid {scale: 2.0}
+gitGraph
+    commit id: "First commit"
+    commit id: "Profile README.md"
+    commit id: "Merge pull request #1"
+```
 
 <!--
 
