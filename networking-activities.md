@@ -30,6 +30,20 @@ In the championship, pit the winners of each team against each other. Each champ
 
 Encourage teams to cheer on their champion. Do a count down to each player flying and get the attendees to join in this count down. Encourage as much celebration for the winner as for the losers, maybe even awarding a prize for the worst flyer.
 
+## Two-player CubeFlyer
+
+If you think CubeFlyer is hard, try it 2 player!
+
+The goal of 2 player CubeFlyer is to have one person who can see the screen but can't control the cube, and another who can control the cube but can't see the screen.
+
+Get volunteers to pair up with a CubeFlyer game on a setup that everyone can watch such as using the device used to project the presentations. Have one person as a guide who can see the screen, and one who is a controller who can access the controls, but can't see the screen, such as facing away (do not use blindfolds as this may make people uncomfortable).
+
+The guide needs to instruct the player when to tap the controls to fly.
+
+The winner is the team with longest flyer.
+
+A variation of this game has the audience as the guide, with everyone one shouting instructions.
+
 ## Coming up with your own ideas
 
 Feel free to come up with your own (and if they are successful please raise a [PR](https://github.com/open-source-bootcamp/bootcamp-guide/pulls) to add them here).
