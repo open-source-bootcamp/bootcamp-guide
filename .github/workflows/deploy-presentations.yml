@@ -1,0 +1,66 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["add-actions"]
+
+  # Redeploy from actions menu
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# This automatically cancels an in-progress deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - run: cd presentations
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: npm
+          cache-dependency-path: "**/package-lock.json"
+      - run: npm ci
+  
+  build:
+    needs: setup
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        presentations:
+          - "intro-to-github"
+          - "get-signed-up-with-github"
+          - "contributions-licensing"
+    steps:
+      - run: npm run slidev build ${{ matrix.presentations }}/slides.md --out ../generated/web/${{ matrix.presentations }}
+      - run: ls ../generated/web/${{ matrix.presentations }}
+  
+  # Single deploy job to consolidate matrix above
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: './generated/web'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
