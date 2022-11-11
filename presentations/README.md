@@ -39,6 +39,10 @@ To use the slides:
 
 1. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required. The speaker notes are included as HTML comments in the markdown in the `slide.md` files.
 
+> This repo is designed to work with development containers inside VS Code. If you open this repo in the dev container in VS Code, SliDev will be automatically installed in the container, so you just need to run the relevant `run` command to launch the presentation. You will need Docker or other Docker CLI compliant container engine running to open the development container. You can read more on development containers in the [VS Code Developing inside a container documentation](https://code.visualstudio.com/docs/devcontainers/containers).
+>
+> The relevant port will be forwarded from the container, so you can still open the slides from [localhost:3030](http://localhost:3030).
+
 ## List of presentations
 
 * [Get signed up for GitHub](./get-signed-up-with-github/)
@@ -61,10 +65,12 @@ To use the slides:
 
 * **Once customized with my details can I host my slides anywhere**
 
-    Yes! From the folder containing the presentation you want to host, run:
+    Yes! Navigate to the folder containing the presentation you want to host, then run:
 
     ```bash
     npx slidev build
     ```
 
     This will build a single page application (SPA) in a subfolder called `dist` that you can host with services like [GitHub pages](https://pages.github.com) or [Netlify](https://www.netlify.com).
+
+    You can read more in the [Sli.Dev Static Hosting documentation](https://sli.dev/guide/hosting.html).
