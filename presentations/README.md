@@ -23,8 +23,6 @@ To use the slides:
 
 1. Clone this repo
 
-1. Navigate to the relevant folder
-
 1. Run the following command to install SliDev:
 
     ```bash
