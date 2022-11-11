@@ -36,7 +36,7 @@ The host(s) welcome the attendees and run through the following:
 * Event space logistics such as WiFi details, location of toilets, fire safety etc
 * The agenda for the day
 * Introductions to the mentors and speakers
-* Encouragements and tips to network ([Pac-Man rule](./best-practices.md#pac-man-rule), being inclusive of those who don't want to network)
+* Encouragements and tips to network ([Pac-Man rule](./how-to-run-this-event.md#pac-man-rule), being inclusive of those who don't want to network)
 
 ### Code of conduct
 

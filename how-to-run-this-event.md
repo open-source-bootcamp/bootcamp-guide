@@ -6,7 +6,7 @@ Running events can be hard, so here are some tips for making the event a success
 
 We have found that this event is best run in-person, and to do so you will need an appropriate venue. This venue will need:
 
-* **Chairs and desks for every attendee to work at**. Just chairs is not enough as not everyone will be able to work with a laptop on their knees, and this will certainly not be comfortable for an entire day.
+* **Chairs and desks or tables for every attendee to work at**. Just chairs is not enough as not everyone will be able to work with a laptop on their knees, and this will certainly not be comfortable for an entire day.
 * **WiFi**. This event relies on accessing remote git repos and GitHub.com, so every attendee will need access to WiFi.
 * **Power**. Each day of this event will have at least 4 hours of hands on time, so attendees will need laptop power for this. You cannot guarantee every attendee will have a laptop that is charged, or even has a working battery, or one that can last this long. Therefore you will need to be able to provide power to everyone who needs it.
 
@@ -87,3 +87,27 @@ You can find mentors locally through a number of means:
 The only thing that attendees have to bring is their laptop. This needs to be a computer that either has VS Code and Git already installed, or that the attendee is able to install software on.
 
 We have seen attendees at events who have a heavily locked down corporate laptop with them and they have been unable to install the software needed.
+
+## Accessibility
+
+This event must be as inclusive as possible, ideally supporting as many accessibility requirements as possible. It is not possible to support every possible accessibility need, but you should do your best.
+
+The most important thing to do is to ask your attendees if they need any accommodations. You should ask this when attendees register, by providing a way on the registration system to request accommodations, and by providing a way for folks to contact you to make requests. You should also be honest about what you can and can't provide.
+
+Some basics:
+
+* Ensure the venue has access for people with limited mobility, such as wheelchair users. Make sure the venue is set up to accommodate people with limited mobility, such as clear paths to move around the room. If you have higher tables available, these can be of benefit to a wheelchair user who cannot fit under a low desk.
+* Make sure the presentation system is large and clear. For anyone wanting to share code or a website, make sure they zoom in at least 150% if not more to make the contents of their screen clear. Ask presenters to test out their screens in advance, and help them check zoom levels from the back of the room.
+* Ensure audio is loud and clear. Use microphones and PA systems to help carry the speakers voice. If there is no PA system, then explain this to the attendees so folks can sit close to the speaker if needed be. Again, test this in multiple locations in the room.
+* If the audience asks questions, either get them to use a microphone, or have the speaker repeat the question. Occasionally the audience member will say things like 'I don't need a microphone', so they need to be reminded that it is not for their benefit.
+* When providing food ensure you cater to different dietary requirements such as vegan, gluten free, nut free. Clearly label the food, especially any allergens. Let the attendees know up front what food is being provided, and ensure there are opportunities for them to bring and eat their own food if wanted.
+
+## Pac-Man rule
+
+The 'Pac-Man rule' is designed to provide a welcoming environment for attendees who wish to join an existing conversation. Normally when groups of people engage in a conversation they form closed circle which is discouraging for folks who wish to join in as there is nowhere to do so without moving someone out of the way.
+
+![Pac-Man](img/pacman.png)
+
+The Pac-Man rule is that any such conversation circle should have at least one open space in the circle (similar to the open mouth on Pac-Man). This way anyone else can step into that space and join the conversation. When this happens the circle should expand to give another open space to allow others to join.
+
+You can read more on this ['The Pac-Man rule' blog post by Eric Holscher came up with this concept](https://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/).
