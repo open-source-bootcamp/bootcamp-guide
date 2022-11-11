@@ -23,7 +23,7 @@ To use the slides:
 
 1. Clone this repo
 
-1. Run the following command to install SliDev:
+1. From the `presentations` direction run the following command to install SliDev:
 
     ```bash
     npm install
