@@ -31,11 +31,11 @@ To use the slides:
     npm install
     ```
 
-1. Run the following command to start SliDev:
+1. Launch the presentations using one of the provided scripts:
 
-    ```bash
-    npx slidev
-    ```
+    *. Intro to GitHub: `npm run intro`
+    *. Licensing Contributions: `npm run licensing`
+    *. Sign Up for GitHub: `npm run signup`
 
 1. This will launch SliDev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
