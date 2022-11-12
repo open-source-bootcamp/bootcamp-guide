@@ -19,8 +19,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  setup:
+  build:
+    needs: setup
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        presentations:
+          - "intro-to-github"
+          - "get-signed-up-with-github"
+          - "contributions-licensing"
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -33,19 +40,6 @@ jobs:
       - run: |
           cd presentations
           npm ci
-  
-  build:
-    needs: setup
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        presentations:
-          - "intro-to-github"
-          - "get-signed-up-with-github"
-          - "contributions-licensing"
-    steps:
-      - run: |
-          cd presentations
           npm run slidev build ${{ matrix.presentations }}/slides.md --out ../generated/web/${{ matrix.presentations }}
           ls ../generated/web/${{ matrix.presentations }}
   
