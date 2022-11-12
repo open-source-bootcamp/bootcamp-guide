@@ -44,8 +44,10 @@ jobs:
           - "get-signed-up-with-github"
           - "contributions-licensing"
     steps:
-      - run: npm run slidev build ${{ matrix.presentations }}/slides.md --out ../generated/web/${{ matrix.presentations }}
-      - run: ls ../generated/web/${{ matrix.presentations }}
+      - run: |
+          cd presentations
+          npm run slidev build ${{ matrix.presentations }}/slides.md --out ../generated/web/${{ matrix.presentations }}
+          ls ../generated/web/${{ matrix.presentations }}
   
   # Single deploy job to consolidate matrix above
   deploy:
