@@ -903,6 +903,8 @@ gitGraph
 
 Finally we have 3 commits on the main branch - an initial commit which was created when the README file was generated with the repo, the update to the readme, and the merge.
 
+The my-first-branch branch has been deleted
+
 -->
 
 ---

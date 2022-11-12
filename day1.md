@@ -8,14 +8,15 @@ The aim of day 1 is to ensure every attendee is comfortable using Git and GitHub
 | ----- | -------- |
 | 09:30 | [Doors open and breakfast](#doors-open-and-breakfast) |
 | 10:00 | [Welcome](#welcome) |
-| 10:15 | [Networking game](#networking-game) |
+| 10:15 | [Networking activity](#networking-activity) |
 | 10:25 | [Get signed up with GitHub](#get-signed-up-with-github) |
 | 10:55 | [Networking opportunity - connect on GitHub](#networking-opportunity---connect-on-github) |
 | 11:05 | [Introduction to GitHub](#introduction-to-github) |
 | 12:00 | [Lunch](#lunch) |
-| 12:55 | [Another networking game](#networking-game) |
+| 12:55 | [Another networking activity](#networking-activity) |
 | 13:00 | [Make your first contribution](#make-your-first-contribution) |
 | 14:00 | [Make your second contribution](#make-your-second-contribution) |
+| 15:00 | [Wrap up](#wrap-up) |
 
 ## Doors open and breakfast
 
@@ -35,7 +36,7 @@ The host(s) welcome the attendees and run through the following:
 * Event space logistics such as WiFi details, location of toilets, fire safety etc
 * The agenda for the day
 * Introductions to the mentors and speakers
-* Encouragements and tips to network ([Pac-Man rule](./best-practices.md#pac-man-rule), being inclusive of those who don't want to network)
+* Encouragements and tips to network ([Pac-Man rule](./how-to-run-this-event.md#pac-man-rule), being inclusive of those who don't want to network)
 
 ### Code of conduct
 
@@ -49,9 +50,9 @@ If you do not already have a code of conduct for your event, there are plenty of
 * [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512?hl=en)
 * [Microsoft event code of conduct](https://www.microsoft.com/events/codeofconduct)
 
-## Networking game
+## Networking activity
 
-Encourage attendees to form small teams and complete a quick challenge. Ideas for such games are given [in the Networking games guide](./networking-games.md). This must be an optional activity, with team formation also being optional.
+Encourage attendees to form small teams and complete a quick challenge. Ideas for such activities are given [in the Networking activities guide](./networking-activities.md). This must be an optional activity, with team formation also being optional.
 
 ## Get signed up with GitHub
 
@@ -71,9 +72,9 @@ The presenter should start by asking a mentor their GitHub handle, finding them 
 
 ## Introduction to GitHub
 
-This session is to get attendees up to speed with GitHub concepts such as repos, commits and pull requests. GitHub provides a course on their [skills platform](https://skills.GitHub.com) that provides everything needed.
+This session is to get attendees up to speed with GitHub concepts such as repos, commits and pull requests. In this session attendees will create a new repo for their GitHub profile.
 
-The session instructor should lead the audience through the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course on [GitHub skills](https://skills.GitHub.com). The instructor should work through each stage in turn, showing the video and demonstrating completing the stage, then give the attendees have time to work through it themselves. The instructor should only moving to the next stage when everyone is complete.
+You can find this session in the [presentations/intro-to-github](./presentations/intro-to-github/) folder.
 
 Mentors need to be on hand to provide support and unblock any attendees who hit issues.
 
@@ -107,22 +108,8 @@ This first contribution should be instructor led. The Instructor should:
 
 ## Make your second contribution
 
-This session is for attendees to be a bit more free-form I
+## Wrap up
 
+At the end of the day, you will need to wrap up the first day. Take a moment to thank all the mentors, and give a very quick review of the day.
 
-
-##
-
-## CubeFlyer
-
-### Set up a repo with the CubeFlyer game
-
-### Create issues
-
-### Setting up deployments and preview builds
-
-### Managing the first contributions
-
-### Merge conflicts
-
-### Working on more advanced changes
+Remind everyone to return the next day for a whole day focused on open source so they can learn to use their new skills to contribute to projects.

@@ -24,7 +24,7 @@
 	],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "cd /workspaces/bootcamp-guide/presentations/contributions-licensing && npm install && cd /workspaces/bootcamp-guide/presentations/get-signed-up-with-github && npm install",
+	"postCreateCommand": "chmod +x ./.devcontainer/installer.sh && ./.devcontainer/installer.sh",
 
 	// Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
