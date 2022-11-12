@@ -796,6 +796,18 @@ And if you are not kind, word may get around!
 layout: center
 ---
 
+# Remember - Be kind
+
+<!--
+
+I can't hammer this home enough, be kind.
+
+-->
+
+---
+layout: center
+---
+
 # Thank you
 
 <!--

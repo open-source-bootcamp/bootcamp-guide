@@ -38,6 +38,8 @@ The host(s) welcome the attendees and run through the following:
 * The agenda for the day
 * Encouragements and tips to network ([Pac-Man rule](./how-to-run-this-event.md#pac-man-rule), being inclusive of those who don't want to network)
 
+You can find an example welcome deck in the [presentations/welcome](./presentations/welcome/) folder.
+
 ### Code of conduct
 
 You **must** provide a code of conduct, and enforce this. This code of conduct defines what behavior is unacceptable, and what behaviors are encouraged. This helps attendees fell safe knowing that if the worst happens and they are subject to harassment or behaviors that make them feel uncomfortable or welcome then something will be done to remove the harasser.
