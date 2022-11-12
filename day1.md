@@ -32,11 +32,13 @@ The welcome is when the event kicks off. Attendees should be seated and ready to
 
 The host(s) welcome the attendees and run through the following:
 
-* The code of conduct including who to go to to report any violations
+* The code of conduct including who to go to to report any violations. Please read this out as well as showing it on a slide to ensure everyone is aware.
 * Event space logistics such as WiFi details, location of toilets, fire safety etc
-* The agenda for the day
 * Introductions to the mentors and speakers
+* The agenda for the day
 * Encouragements and tips to network ([Pac-Man rule](./how-to-run-this-event.md#pac-man-rule), being inclusive of those who don't want to network)
+
+You can find an example welcome deck in the [presentations/welcome](./presentations/welcome/) folder.
 
 ### Code of conduct
 
@@ -49,6 +51,8 @@ If you do not already have a code of conduct for your event, there are plenty of
 * [GitHub event code of conduct](https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct)
 * [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512?hl=en)
 * [Microsoft event code of conduct](https://www.microsoft.com/events/codeofconduct)
+
+It is also a good idea to have a sign by the event entrance with the code of conduct, so if anyone arrives late to the event they cannot claim not to have heard the rules.
 
 ## Networking activity
 
