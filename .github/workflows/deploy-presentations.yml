@@ -39,10 +39,7 @@ jobs:
       - run: |
           cd presentations
           npm ci
-          npm install
-      - run: |
-          cd presentations
-          npm run slidev build ${{ matrix.presentations }}/slides.md --out ../generated/web/${{ matrix.presentations }}
+          npm run dev -- build ${{ matrix.presentations }}/slides.md --out ../generated/web/${{ matrix.presentations }}
           ls ../generated/web/${{ matrix.presentations }}
   
   # Single deploy job to consolidate matrix above
