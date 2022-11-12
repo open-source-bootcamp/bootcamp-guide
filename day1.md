@@ -4,6 +4,8 @@ The aim of day 1 is to ensure every attendee is comfortable using Git and GitHub
 
 > If attendees are already competent GitHub users, and they only want to learn about contributing to open source then they can either skip this day, or can be encouraged to attend and mentor the rest of the attendees.
 
+## Run of the day
+
 | Time  | Activity |
 | ----- | -------- |
 | 09:30 | [Doors open and breakfast](#doors-open-and-breakfast) |
