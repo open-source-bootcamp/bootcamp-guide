@@ -16,6 +16,7 @@ Each slide markdown file has a first slide to introduce the speaker. You will ne
 * Replace `Name` in the first slide with the presenters name.
 * Set the `introImage` value with a link to an image of the presenter
 * Add any extra introductions as needed - for example adding your open source origin story showing how you got into contributing to open source
+* The **Welcome** slide deck needs more customization. See the [`README.md` file in the `welcome` folder](./welcome/README.md) for more details.
 
 ## Using the slides
 
@@ -31,9 +32,10 @@ To use the slides:
 
 1. Launch the presentations using one of the provided scripts:
 
-    *. Intro to GitHub: `npm run intro`
-    *. Licensing Contributions: `npm run licensing`
-    *. Sign Up for GitHub: `npm run signup`
+    * Welcome: `npm run welcome`
+    * Intro to GitHub: `npm run intro`
+    * Licensing Contributions: `npm run licensing`
+    * Sign Up for GitHub: `npm run signup`
 
 1. This will launch SliDev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 

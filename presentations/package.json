@@ -6,6 +6,7 @@
   "scripts": {
     "intro": "cd intro-to-github && slidev --open",
     "licensing": "cd contributions-licensing && slidev --open",
-    "signup": "cd get-signed-up-with-github && slidev --open"
+    "signup": "cd get-signed-up-with-github && slidev --open",
+    "welcome": "cd welcome && slidev --open"
   }
 }

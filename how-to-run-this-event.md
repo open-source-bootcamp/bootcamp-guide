@@ -65,7 +65,9 @@ Platforms include:
 
 Ideally you should find a way to register attendees so you can get an idea of how many will attend, such as using Meetup or creating an event on Facebook. This helps with catering so you know how much food to get. Be aware that especially for free events, the drop of between sign up and attendance is usually very high, so expect no more than 50% of the folks who sign up to actually attend.
 
-Here is an example of this event being promoted on Meetup - [Hacktoberfest in-person open source bootcamp](https://www.meetup.com/microsoft-reactor-redmond/events/288635090/)
+Here is an example of this event being promoted on Meetup - [Hacktoberfest in-person open source bootcamp](https://www.meetup.com/microsoft-reactor-redmond/events/288635090/).
+
+When you promote the event, make sure you link to the code of conduct so attendees can understand in advance what is expected of them.
 
 ## Mentors
 
@@ -81,6 +83,8 @@ You can find mentors locally through a number of means:
 * If you have students, you can also reach out to an local [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com). These are students who support upskilling other students with knowledge of Microsoft products including GitHub.
 * Microsoft has a group of community leaders called [Microsoft MVPs](https://mvp.microsoft.com/MvpSearch) who may be able to mentor or connect you wih mentors.
 * Reach out to local tech communities, meetups and other events to ask for mentors
+
+Mentors should have some way to identify themselves to the attendees, such as a different badge. It is also good practice to ensure all mentors know how to correctly pronounce the names of all the other mentors.
 
 ## What attendees need to bring
 
