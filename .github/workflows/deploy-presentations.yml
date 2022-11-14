@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["add-actions"]
+    branches: ["main"]
 
   # Redeploy from actions menu
   workflow_dispatch:
