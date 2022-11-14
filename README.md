@@ -8,7 +8,7 @@ This repo contains a playbook and code designed to help you to run a 2-day open 
 
 The goal of this bootcamp is to take attendees from a very basic to no understanding of GitHub on a journey to not only being comfortable with collaborating on GitHub, but being ready to actively contributing to public open source projects.
 
-When we have run this event in the past (such as at the [In-person Student Open Source Bootcamp, at the Microsoft Reactor](https://www.meetup.com/microsoft-reactor-redmond/events/287024832/) and the [Hacktoberfest in-person open source bootcamp](https://www.meetup.com/microsoft-reactor-redmond/events/288635090/)), the attendees have all given feedback that networking is important, therefore this event includes opportunities for attendees to work together on code, be involved in networking games together, and have time to talk over breakfast and lunch times.
+When we have run this event in the past (such as at the [In-person Student Open Source Bootcamp, at the Microsoft Reactor](https://www.meetup.com/microsoft-reactor-redmond/events/287024832/) and the [Hacktoberfest in-person open source bootcamp](https://www.meetup.com/microsoft-reactor-redmond/events/288635090/)), the attendees have all given feedback that networking is important, therefore this event includes opportunities for attendees to work together on code, be involved in networking activities and games together, and have time to talk over breakfast and lunch times.
 
 ### Intended audience
 
@@ -26,10 +26,6 @@ This bootcamp is designed to run as a 2-day in-person event:
 ## How to run this event
 
 Check out our [how to run this event guide](./how-to-run-this-event.md) for tips on organizing and running this event.
-
-## Best practices
-
-We have put together a [best practices guide](./best-practices.md) with tips to make this event as great as possible.
 
 ## Get in touch
 

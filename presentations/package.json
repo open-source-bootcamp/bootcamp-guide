@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@slidev/cli": "^0.36.11",
+    "slidev-theme-unicorn": "^1.1.1"
+  },
+  "scripts": {
+    "dev": "slidev",
+    "intro": "cd intro-to-github && slidev --open",
+    "licensing": "cd contributions-licensing && slidev --open",
+    "signup": "cd get-signed-up-with-github && slidev --open"
+  }
+}
