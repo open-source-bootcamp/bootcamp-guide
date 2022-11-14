@@ -36,9 +36,9 @@ jobs:
       - run: |
           cd presentations
           npm ci
-          npm run dev -- build intro-to-github/slides.md --out ../generated/web/intro-to-github
-          npm run dev -- build get-signed-up-with-github/slides.md --out ../generated/web/get-signed-up-with-github
-          npm run dev -- build contributions-licensing/slides.md --out ../generated/web/contributions-licensing
+          npx slidev build intro-to-github/slides.md --out ../generated/web/intro-to-github
+          npx slidev build get-signed-up-with-github/slides.md --out ../generated/web/get-signed-up-with-github
+          npx slidev build contributions-licensing/slides.md --out ../generated/web/contributions-licensing
           ls ../generated/web
       - name: Setup Pages
         uses: actions/configure-pages@v2
