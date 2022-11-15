@@ -2,7 +2,7 @@
 
 This folder contains the presentations needed to deliver this bootcamp.
 
-Each subfolder contains the content for the presentation, including all slides in a file called `slides.md`. This markdown file contains the slides in the required format for [SliDev](https://sli.dev), a tool for presenting slides inside your browser.
+Each subfolder contains the content for the presentation, including all slides in a file called `slides.md`. This markdown file contains the slides in the required format for [Sli.Dev](https://sli.dev), a tool for presenting slides inside your browser.
 
 > The slides look best in Edge or Chrome. The rendering in Safari looks a little wonky with outlines around some titles.
 
@@ -24,7 +24,7 @@ To use the slides:
 
 1. Clone this repo
 
-1. From the `presentations` directory run the following command to install SliDev:
+1. From the `presentations` directory run the following command to install Sli.Dev:
 
     ```bash
     npm install
@@ -32,24 +32,34 @@ To use the slides:
 
 1. Launch the presentations using one of the provided scripts:
 
-    * Welcome: `npm run welcome`
-    * Intro to GitHub: `npm run intro`
-    * Licensing Contributions: `npm run licensing`
-    * Sign Up for GitHub: `npm run signup`
+    | Slides                  | Script              |
+    | ----------------------- | ------------------- |
+    | Welcome                 | `npm run welcome`   |
+    | Sign Up for GitHub      | `npm run signup`    |
+    | Intro to GitHub         | `npm run intro`     |
+    | Day 1 wap up            | `npm run wrap1`     |
+    | Licensing Contributions | `npm run licensing` |
+    | Day 2 wap up            | `npm run wrap2`     |
 
-1. This will launch SliDev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
+2. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
-1. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required. The speaker notes are included as HTML comments in the markdown in the `slide.md` files.
+3. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required. The speaker notes are included as HTML comments in the markdown in the `slide.md` files.
 
-> This repo is designed to work with development containers inside VS Code. If you open this repo in the dev container in VS Code, SliDev will be automatically installed in the container, so you just need to run the relevant `run` command to launch the presentation. You will need Docker or other Docker CLI compliant container engine running to open the development container. You can read more on development containers in the [VS Code Developing inside a container documentation](https://code.visualstudio.com/docs/devcontainers/containers).
+> This repo is designed to work with development containers inside VS Code. If you open this repo in the dev container in VS Code, Sli.Dev will be automatically installed in the container, so you just need to run the relevant `run` command to launch the presentation. You will need Docker or other Docker CLI compliant container engine running to open the development container. You can read more on development containers in the [VS Code Developing inside a container documentation](https://code.visualstudio.com/docs/devcontainers/containers).
 >
 > The relevant port will be forwarded from the container, so you can still open the slides from [localhost:3030](http://localhost:3030).
 
 ## List of presentations
 
+### Day 1
+
+* [Welcome](./welcome/)
+
+    This is an example deck for welcoming attendees to this event. It includes an example code of conduct, example mentor and speaker introductions, and a sample run of both days of the event. You can find details on customizing this deck in the [Welcome slide deck README](./welcome/README.md).
+
 * [Get signed up for GitHub](./get-signed-up-with-github/)
 
-    These slide includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
+    This includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
 
 * [Introduction to GitHub](./intro-to-github/)
 
@@ -57,7 +67,17 @@ To use the slides:
 
     There is also an image of a GitHub profile taken from [@JimBobBennett](https://github.com/JimBobBennett). Replace this with an equivalent screenshot of your own GitHub profile.
 
+* [Day 1 wrap up](./day-1-wrap/)
+
+    This deck wraps up day 1. You will need to make any relevant changes to call out any specific activities that took place on day 1, and optionally to thank mentors, speakers and event staff in person. You will also need to update any information about the second day, such as the start time.
+
+### Day 2
+
 * [Contributions, CLAs, and License agreements](./contributions-licensing/)
+
+* [Day 2 wrap up](./day-1-wrap/)
+
+    This deck wraps up the entire event. You will need to make any relevant changes to call out any specific activities that took place over this event, and optionally to thank mentors, speakers and event staff in person.
 
 ## FAQ
 

@@ -261,7 +261,7 @@ gradientColors: ['#8EC5FC', '#E0C3FC']
 * **11:30 - A talk on something**
 * **12:00 - Lunch** 🍕🌮🍜
 * **12:50 - Networking activity - Another scavenger hunt**
-* **13:00 - Find and make an open source contribution**
+* **13:00 - Team contributions to CubeFlyer**
 * **15:00 - Wrap up**
 
 <!--

@@ -20,6 +20,8 @@ For example, in the Microsoft Reactor in Redmond, there is a display cabinet wit
 
 LinkedIn has a handy feature where you can share your connection details using a QR code. Instructions are available on the [LinkedIn help site](https://www.linkedin.com/help/linkedin/answer/a525286/using-a-linkedin-qr-code-to-connect-with-members).
 
+This is a good event to wrap up day 2 with to encourage folks to keep connecting after the event.
+
 ## Cube-off
 
 Who's the best at CubeFlyer?
@@ -53,4 +55,4 @@ If you come up with games, avoid anything that involves:
 * Making people stand up and speak (such as everyone has to say a 'fun' fact about themselves). Some folks do not like being on show, or may not be confident speaking in the language used for the event.
 * Giving out personal details. Ideally everyone should have a name badge so they can add their preferred name and pronouns, but never ask for more personal details that this.
 
-> NOTE: It is important that these events are optional. Some folks won't want to be involved, and they should not be forced to do so, nor should the be made to feel not a part of the event for not taking part in these networking games. Forcing someone to be involved, or mocking someone for not being involved is a code of conduct breach and should be treated accordingly.
+> NOTE: It is important that these events are optional. Some folks won't want to be involved, and they should not be forced to do so, nor should the be made to feel not a part of the event for not taking part in these networking games. Forcing someone to be involved, or harassing or mocking someone for not being involved is a code of conduct breach and should be treated accordingly.
