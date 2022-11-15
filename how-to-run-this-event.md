@@ -115,3 +115,11 @@ The 'Pac-Man rule' is designed to provide a welcoming environment for attendees 
 The Pac-Man rule is that any such conversation circle should have at least one open space in the circle (similar to the open mouth on Pac-Man). This way anyone else can step into that space and join the conversation. When this happens the circle should expand to give another open space to allow others to join.
 
 You can read more on this ['The Pac-Man rule' blog post by Eric Holscher came up with this concept](https://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/).
+
+## Post event survey
+
+It is always a good idea to get feedback from your attendees on an event. This can provide learnings to help make the next event better. Some things to keep in mind when running a survey:
+
+* Make it short - the shorter the better, and the higher the response rate will be. Ideally you want a simple 'how was this event' scale from bad to good, and a free text box for comments.
+* Ask for specific feedback. A free text field is great for attendees to give useful feedback.
+* Be mindful of privacy. If folks have to provide personal information they may not fill in the survey. Be also mindful of the legal requirements when gathering personal information such as GDPR in the EU. It is better to just not ask for any personal information.

@@ -20,6 +20,8 @@ For example, in the Microsoft Reactor in Redmond, there is a display cabinet wit
 
 LinkedIn has a handy feature where you can share your connection details using a QR code. Instructions are available on the [LinkedIn help site](https://www.linkedin.com/help/linkedin/answer/a525286/using-a-linkedin-qr-code-to-connect-with-members).
 
+This is a good event to wrap up day 2 with to encourage folks to keep connecting after the event.
+
 ## Cube-off
 
 Who's the best at CubeFlyer?
