@@ -40,7 +40,7 @@ You can find this session in the [presentations/contributions-licensing](./prese
 
 ## Learn about open source talks
 
-This is a chance for speakers to give talks on open source. You will need to find mentors to run these sessions, but topics could include:
+This is a chance for speakers to give talks on a range of topics around open source software and contributions. You will need to find speakers to run these sessions, and topics could include:
 
 * How I got a job thanks to open source
 * A dive into a project I contribute to
@@ -54,9 +54,9 @@ These sessions are a great way to help the attendees understand more about the c
 
 Sessions can be as short or long as required. It would be better to go for two or more short talks, than one long one as this would give the attendees a wider scope of information.
 
-Local speakers are better for this as they can stay around to network with attendees over lunch and answer any questions they have. If you are unable to find local speakers, then remote can work as long as there is a way for the attendees to ask questions not only as a part of the session, but afterwards as well.
+Local speakers are better for this as an in-person event as they can stay around to network with attendees over lunch and answer any questions they have. If you are unable to find local speakers, then remote can work as long as there is a way for the attendees to ask questions not only as a part of the session, but afterwards as well.
 
-Check out the [Mentors section in the how to run this event guide](./how-to-run-this-event.md#mentors) for sone suggestions on finding local speakers.
+Check out the [Mentors section in the how to run this event guide](./how-to-run-this-event.md#mentors) for some suggestions on finding local speakers.
 
 ## Lunch
 
