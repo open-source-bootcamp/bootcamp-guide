@@ -44,17 +44,21 @@ You can find an example welcome deck in the [presentations/welcome](./presentati
 
 ### Code of conduct
 
-You **must** provide a code of conduct, and enforce this. This code of conduct defines what behavior is unacceptable, and what behaviors are encouraged. This helps attendees fell safe knowing that if the worst happens and they are subject to harassment or behaviors that make them feel uncomfortable or welcome then something will be done to remove the harasser.
+You **must** provide a code of conduct, and enforce this. This code of conduct defines what behavior is unacceptable, and what behaviors are encouraged. This helps attendees, mentors, speakers and anyone else involved in the event feel safe knowing that if the worst happens and they are subject to harassment or behaviors that make them feel uncomfortable or welcome then something will be done to remove the harasser.
 
 If anyone breaches the code of conduct they **must** be removed from the event, so ensure either you or one of the mentors (or event staff or security if your venue has these) are willing and able to do so. If attendees do not leave when instructed then you should call any relevant building security or the local police.
 
+It is helpful to also provide a phone number or email address to communicate code of conduct breaches. 
+
 If you do not already have a code of conduct for your event, there are plenty of great examples around you can use to create your own. Also check with the event venue as they may already have one that all attendees must adhere to (for example, all Microsoft Reactor events are covered by a code of conduct defined and enforced by Microsoft).
 
-* [GitHub event code of conduct](https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct)
-* [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512?hl=en)
+* [GitHub event code of conduct](https://docs.github.com/site-policy/github-terms/github-event-code-of-conduct)
+* [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512)
 * [Microsoft event code of conduct](https://www.microsoft.com/events/codeofconduct)
 
 It is also a good idea to have a sign by the event entrance with the code of conduct, so if anyone arrives late to the event they cannot claim not to have heard the rules.
+
+Remember - **everyone** at the event **must** abide by the code of conduct, including the mentors, speakers and event staff.
 
 ## Networking activity
 
@@ -70,7 +74,7 @@ Mentors will need to be on-hand to help attendees with any issues around sign up
 
 ## Networking opportunity - connect on GitHub
 
-As a networking opportunity get attendees to find each other on GitHub and follow each other. This will not only foster connections between attendees, and make it easier to collaborate later on in the day, but it will also teach them about the [social connection side of GitHub](https://docs.github.com/get-started/exploring-projects-on-github/following-people).
+As a networking opportunity, get attendees to find each other on GitHub and follow each other. This will not only foster connections between attendees, and make it easier to collaborate later on in the day, but it will also teach them about the [social connection side of GitHub](https://docs.github.com/get-started/exploring-projects-on-github/following-people).
 
 > This must be optional so any attendees who do not wish to connect with others are not pressurized into doing so
 
