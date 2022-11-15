@@ -78,7 +78,7 @@ These tasks are intentionally vague in how they are to be implemented with minim
 
 Contributions should be made to the organizers CubeFlyer repository. The organizer should keep this repository around for a while after the event and work on helping to merge PRs so that attendees can carry on their learning after the event. The 'homework' for the attendees is to continue working on these contributions, collaborating with each other in GitHub issues and PRs.
 
-Each of these items should be created as an issue in the CubeFlyer repository so the attendees have a place to communicate and document their work. To help you, we have created a GitHub action to create these issues automatically, and you can run this in your repo. You can find instructions in the [set up CubeFlyer guide](./set-up-cubeflyer.md).
+Each of these items should be created as an issue in the CubeFlyer repository so the attendees have a place to communicate and document their work. To help you, we have created a GitHub action to create these issues automatically, and you can run this in your repo. You can find instructions in the [day2 section of the set up CubeFlyer guide](./set-up-cubeflyer.md#day-2).
 
 ### Project management
 
