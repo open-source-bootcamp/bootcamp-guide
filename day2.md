@@ -193,3 +193,5 @@ Some suggestions to help you learn how to do this are:
 At the end of the day, you will need to wrap up the event. Take a moment to thank all the mentors, and give a very quick review of the whole event.
 
 Close by encouraging attendees to get involved with open source. Give them 'homework' to continue making contributions to the CubeFlyer project, and ensure the repo is available for a while afterwards, with mentors who can review and merge PRs.
+
+You can find an example wrap up deck in the [presentations/day-2-wrap](./presentations/day-2-wrap/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).

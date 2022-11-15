@@ -40,7 +40,7 @@ The host(s) welcome the attendees and run through the following:
 * The agenda for the day
 * Encouragements and tips to network ([Pac-Man rule](./how-to-run-this-event.md#pac-man-rule), being inclusive of those who don't want to network)
 
-You can find an example welcome deck in the [presentations/welcome](./presentations/welcome/) folder.
+You can find an example welcome deck in the [presentations/welcome](./presentations/welcome/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 ### Code of conduct
 
@@ -68,7 +68,7 @@ Encourage attendees to form small teams and complete a quick challenge. Ideas fo
 
 Before attendees can get started, they need to have a GitHub account. This time is dedicated to introducing GitHub, directing folks to GitHub.com, talking through the account options and getting everyone signed up. After this, the attendees need to install a couple of tools to help work on code.
 
-You can find this session in the [presentations/get-signed-up-with-github](./presentations/get-signed-up-with-github/) folder.
+You can find this session in the [presentations/get-signed-up-with-github](./presentations/get-signed-up-with-github/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 Mentors will need to be on-hand to help attendees with any issues around sign up.
 
@@ -84,7 +84,7 @@ The presenter should start by asking a mentor their GitHub handle, finding them 
 
 This session is to get attendees up to speed with GitHub concepts such as repos, commits and pull requests. In this session attendees will create a new repo for their GitHub profile.
 
-You can find this session in the [presentations/intro-to-github](./presentations/intro-to-github/) folder.
+You can find this session in the [presentations/intro-to-github](./presentations/intro-to-github/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 Mentors need to be on hand to provide support and unblock any attendees who hit issues.
 
@@ -120,6 +120,6 @@ This first contribution should be instructor led. The Instructor should:
 
 ## Wrap up
 
-At the end of the day, you will need to wrap up the first day. Take a moment to thank all the mentors, and give a very quick review of the day.
+At the end of the day, you will need to wrap up the first day. Take a moment to thank all the mentors, and give a very quick review of the day. Remind everyone to return the next day for a whole day focused on open source so they can learn to use their new skills to contribute to projects.
 
-Remind everyone to return the next day for a whole day focused on open source so they can learn to use their new skills to contribute to projects.
+You can find an example wrap up deck in the [presentations/day-1-wrap](./presentations/day-1-wrap/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
