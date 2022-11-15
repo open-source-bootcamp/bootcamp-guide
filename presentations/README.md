@@ -32,14 +32,21 @@ To use the slides:
 
 1. Launch the presentations using one of the provided scripts:
 
-    | Slides                  | Script              |
-    | ----------------------- | ------------------- |
-    | Welcome                 | `npm run welcome`   |
-    | Sign Up for GitHub      | `npm run signup`    |
-    | Intro to GitHub         | `npm run intro`     |
-    | Day 1 wap up            | `npm run wrap1`     |
-    | Licensing Contributions | `npm run licensing` |
-    | Day 2 wap up            | `npm run wrap2`     |
+    **Day 1**
+
+    | Slides             | Script            |
+    | ------------------ | ----------------- |
+    | Welcome            | `npm run welcome` |
+    | Sign Up for GitHub | `npm run signup`  |
+    | Intro to GitHub    | `npm run intro`   |
+    | Day 1 wap up       | `npm run wrap1`   |
+
+    **Day 2**
+
+    | Slides                            | Script              |
+    | --------------------------------- | ------------------- |
+    | Licensing, CLAs and Contributions | `npm run licensing` |
+    | Day 2 wap up                      | `npm run wrap2`     |
 
 2. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
