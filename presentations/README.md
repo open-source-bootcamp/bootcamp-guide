@@ -37,7 +37,9 @@ To use the slides:
     | Welcome                 | `npm run welcome`   |
     | Sign Up for GitHub      | `npm run signup`    |
     | Intro to GitHub         | `npm run intro`     |
+    | Day 1 wap up            | `npm run wrap1`     |
     | Licensing Contributions | `npm run licensing` |
+    | Day 2 wap up            | `npm run wrap2`     |
 
 2. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
@@ -65,9 +67,17 @@ To use the slides:
 
     There is also an image of a GitHub profile taken from [@JimBobBennett](https://github.com/JimBobBennett). Replace this with an equivalent screenshot of your own GitHub profile.
 
+* [Day 1 wrap up](./day-1-wrap/)
+
+    This deck wraps up day 1. You will need to make any relevant changes to call out any specific activities that took place on day 1, and optionally to thank mentors, speakers and event staff in person. You will also need to update any information about the second day, such as the start time.
+
 ### Day 2
 
 * [Contributions, CLAs, and License agreements](./contributions-licensing/)
+
+* [Day 2 wrap up](./day-1-wrap/)
+
+    This deck wraps up the entire event. You will need to make any relevant changes to call out any specific activities that took place over this event, and optionally to thank mentors, speakers and event staff in person.
 
 ## FAQ
 
