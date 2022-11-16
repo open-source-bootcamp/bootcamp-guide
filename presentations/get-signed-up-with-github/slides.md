@@ -13,7 +13,9 @@ introImage: ''
 
 # Get signed up with GitHub
 
-By: "Name"
+### Name
+
+Job title/company/other details
 
 <!-- 
 Hi, I am name.
