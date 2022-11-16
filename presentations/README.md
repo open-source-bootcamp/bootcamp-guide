@@ -2,7 +2,7 @@
 
 This folder contains the presentations needed to deliver this bootcamp.
 
-Each subfolder contains the content for the presentation, including all slides in a file called `slides.md`. This markdown file contains the slides in the required format for [Sli.Dev](https://sli.dev), a tool for presenting slides inside your browser.
+Each subfolder contains the content for the presentation, including all slides in a file called `slides.md`. This markdown file contains the slides in the required format for [Sli.Dev](https://sli.dev), a tool for presenting slides inside your browser. Below you can also find videos of some of the sessions to help the speaker learn the content.
 
 > The slides look best in Edge or Chrome. The rendering in Safari looks a little wonky with outlines around some titles.
 
@@ -65,6 +65,10 @@ To use the slides:
     This is an example deck for welcoming attendees to this event. It includes an example code of conduct, example mentor and speaker introductions, and a sample run of both days of the event. You can find details on customizing this deck in the [Welcome slide deck README](./welcome/README.md).
 
 * [Get signed up for GitHub](./get-signed-up-with-github/)
+
+    Select the image below for a video of this session.
+
+    [![Get signed up for GitHub](./img/get-signed-up-thumb.png)](https://youtu.be/tYZjLRc4GlA)
 
     This includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
 
