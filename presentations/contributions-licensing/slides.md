@@ -13,7 +13,9 @@ introImage: ''
 
 # Contributing, CLAs, and Licensing
 
-By: "Name"
+### Name
+
+Job title/company/other details
 
 
 <!-- 

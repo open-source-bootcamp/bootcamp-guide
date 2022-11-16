@@ -13,7 +13,7 @@ Each slide markdown file has a first slide to introduce the speaker. You will ne
 * Set the value for the `website` field to the presenters website (for example your GitHub page) if you want a link on every page.
 * Set the value for the `handle` field to the presenters social handle (for example your Twitter handle) if you want this on every page
 * Set the value of the `logoHeader` to an image file for the presenter or the presenters companies logo if you want this on every page
-* Replace `Name` in the first slide with the presenters name.
+* Replace `Name` and `Job title/company/other details` in the first slide with the presenters name and other details.
 * Set the `introImage` value with a link to an image of the presenter
 * Add any extra introductions as needed - for example adding your open source origin story showing how you got into contributing to open source
 * The **Welcome** slide deck needs more customization. See the [`README.md` file in the `welcome` folder](./welcome/README.md) for more details.
@@ -73,6 +73,10 @@ To use the slides:
     This includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
 
 * [Introduction to GitHub](./intro-to-github/)
+
+    Select the image below for a video of this session.
+
+    [![Introduction to GitHub](./img/intro-thumb.png)](https://youtu.be/uv5qw3kfbQs)
 
     These slides have embedded YouTube videos. You will need to ensure you are presenting in a way that the audience can hear the audio from your computer. If not, you **MUST** turn on captions on the videos. Ideally captions should always be turned on.
 
