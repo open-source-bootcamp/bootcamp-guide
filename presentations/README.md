@@ -63,7 +63,8 @@ To use the slides:
 * [Welcome](./welcome/)
 
     This is an example deck for welcoming attendees to this event. It includes an example code of conduct, example mentor and speaker introductions, and a sample run of both days of the event. You can find details on customizing this deck in the [Welcome slide deck README](./welcome/README.md).
-v* [Get signed up for GitHub](./get-signed-up-with-github/)
+
+* [Get signed up for GitHub](./get-signed-up-with-github/)
 
     Select the image below for a video of this session.
 
