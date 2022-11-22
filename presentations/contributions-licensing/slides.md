@@ -13,7 +13,9 @@ introImage: ''
 
 # Contributing, CLAs, and Licensing
 
-By: "Name"
+### Name
+
+Job title/company/other details
 
 
 <!-- 
@@ -789,6 +791,18 @@ Secondly, protect you and your work. Check the license, check the requirements f
 Finally, and most importantly - be kind. Everyone else using and contributing to these projects is a real person with real feelings, and often contributes in their own time for no reward. Be kind and realize others could be going through challenges, or not be able to communicate as well in the same language as you.
 
 And if you are not kind, word may get around!
+
+-->
+
+---
+layout: center
+---
+
+# Remember - Be kind
+
+<!--
+
+I can't hammer this home enough, be kind.
 
 -->
 

@@ -65,7 +65,9 @@ Platforms include:
 
 Ideally you should find a way to register attendees so you can get an idea of how many will attend, such as using Meetup or creating an event on Facebook. This helps with catering so you know how much food to get. Be aware that especially for free events, the drop of between sign up and attendance is usually very high, so expect no more than 50% of the folks who sign up to actually attend.
 
-Here is an example of this event being promoted on Meetup - [Hacktoberfest in-person open source bootcamp](https://www.meetup.com/microsoft-reactor-redmond/events/288635090/)
+Here is an example of this event being promoted on Meetup - [Hacktoberfest in-person open source bootcamp](https://www.meetup.com/microsoft-reactor-redmond/events/288635090/).
+
+When you promote the event, make sure you link to the code of conduct so attendees can understand in advance what is expected of them.
 
 ## Mentors
 
@@ -81,6 +83,8 @@ You can find mentors locally through a number of means:
 * If you have students, you can also reach out to an local [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com). These are students who support upskilling other students with knowledge of Microsoft products including GitHub.
 * Microsoft has a group of community leaders called [Microsoft MVPs](https://mvp.microsoft.com/MvpSearch) who may be able to mentor or connect you wih mentors.
 * Reach out to local tech communities, meetups and other events to ask for mentors
+
+Mentors should have some way to identify themselves to the attendees, such as a different badge. It is also good practice to ensure all mentors know how to correctly pronounce the names of all the other mentors.
 
 ## What attendees need to bring
 
@@ -111,3 +115,11 @@ The 'Pac-Man rule' is designed to provide a welcoming environment for attendees 
 The Pac-Man rule is that any such conversation circle should have at least one open space in the circle (similar to the open mouth on Pac-Man). This way anyone else can step into that space and join the conversation. When this happens the circle should expand to give another open space to allow others to join.
 
 You can read more on this ['The Pac-Man rule' blog post by Eric Holscher came up with this concept](https://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/).
+
+## Post event survey
+
+It is always a good idea to get feedback from your attendees on an event. This can provide learnings to help make the next event better. Some things to keep in mind when running a survey:
+
+* Make it short - the shorter the better, and the higher the response rate will be. Ideally you want a simple 'how was this event' scale from bad to good, and a free text box for comments.
+* Ask for specific feedback. A free text field is great for attendees to give useful feedback.
+* Be mindful of privacy. If folks have to provide personal information they may not fill in the survey. Be also mindful of the legal requirements when gathering personal information such as GDPR in the EU. It is better to just not ask for any personal information.

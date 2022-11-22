@@ -13,7 +13,9 @@ introImage: ''
 
 # Introduction to GitHub
 
-By: "Name"
+### Name
+
+Job title/company/other details
 
 <!-- 
 Hi, I am name.
@@ -26,7 +28,7 @@ In this session you will all be contributing to your own repositories. In the ne
 
 ---
 
-# What is GitHub?
+# How does GitHub work?
 
 GitHub is a collaboration platform that uses Git for versioning. GitHub is a popular place to share and contribute to open-source software.
 
