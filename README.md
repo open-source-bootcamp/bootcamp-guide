@@ -21,7 +21,12 @@ This bootcamp leverages a JavaScript project to help attendees learn to make con
 This bootcamp is designed to run as a 2-day in-person event:
 
 * [Day 1 - Introducing Git and GitHub](./day1.md)
+
+  This day is focused on getting folks skilled in Git and GitHub. It gets everyone signed up for a GitHub account, and teaches basic principles such as repos, branches, commits, pull requests, issues, and merge conflicts. It also focuses on getting attendees collaborating in teams.
+
 * [Day 2 - Get started with open source](./day2.md)
+
+  This day focuses on open source, and includes talks given by people who have benefited from open source software, and covers some learning around contributing including licensing and CLAs.
 
 ## How to run this event
 

@@ -4,6 +4,8 @@ The aim of day 1 is to ensure every attendee is comfortable using Git and GitHub
 
 > If attendees are already competent GitHub users, and they only want to learn about contributing to open source then they can either skip this day, or can be encouraged to attend and mentor the rest of the attendees.
 
+## Run of the day
+
 | Time  | Activity |
 | ----- | -------- |
 | 09:30 | [Doors open and breakfast](#doors-open-and-breakfast) |
@@ -32,23 +34,31 @@ The welcome is when the event kicks off. Attendees should be seated and ready to
 
 The host(s) welcome the attendees and run through the following:
 
-* The code of conduct including who to go to to report any violations
+* The code of conduct including who to go to to report any violations. Please read this out as well as showing it on a slide to ensure everyone is aware.
 * Event space logistics such as WiFi details, location of toilets, fire safety etc
-* The agenda for the day
 * Introductions to the mentors and speakers
+* The agenda for the day
 * Encouragements and tips to network ([Pac-Man rule](./how-to-run-this-event.md#pac-man-rule), being inclusive of those who don't want to network)
+
+You can find an example welcome deck in the [presentations/welcome](./presentations/welcome/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 ### Code of conduct
 
-You **must** provide a code of conduct, and enforce this. This code of conduct defines what behavior is unacceptable, and what behaviors are encouraged. This helps attendees fell safe knowing that if the worst happens and they are subject to harassment or behaviors that make them feel uncomfortable or welcome then something will be done to remove the harasser.
+You **must** provide a code of conduct, and enforce this. This code of conduct defines what behavior is unacceptable, and what behaviors are encouraged. This helps attendees, mentors, speakers and anyone else involved in the event feel safe knowing that if the worst happens and they are subject to harassment or behaviors that make them feel uncomfortable or welcome then something will be done to remove the harasser.
 
 If anyone breaches the code of conduct they **must** be removed from the event, so ensure either you or one of the mentors (or event staff or security if your venue has these) are willing and able to do so. If attendees do not leave when instructed then you should call any relevant building security or the local police.
 
+It is helpful to also provide a phone number or email address to communicate code of conduct breaches. 
+
 If you do not already have a code of conduct for your event, there are plenty of great examples around you can use to create your own. Also check with the event venue as they may already have one that all attendees must adhere to (for example, all Microsoft Reactor events are covered by a code of conduct defined and enforced by Microsoft).
 
-* [GitHub event code of conduct](https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct)
-* [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512?hl=en)
+* [GitHub event code of conduct](https://docs.github.com/site-policy/github-terms/github-event-code-of-conduct)
+* [Google Developer groups event code of conduct](https://support.google.com/developergroups/answer/3340512)
 * [Microsoft event code of conduct](https://www.microsoft.com/events/codeofconduct)
+
+It is also a good idea to have a sign by the event entrance with the code of conduct, so if anyone arrives late to the event they cannot claim not to have heard the rules.
+
+Remember - **everyone** at the event **must** abide by the code of conduct, including the mentors, speakers and event staff.
 
 ## Networking activity
 
@@ -58,13 +68,13 @@ Encourage attendees to form small teams and complete a quick challenge. Ideas fo
 
 Before attendees can get started, they need to have a GitHub account. This time is dedicated to introducing GitHub, directing folks to GitHub.com, talking through the account options and getting everyone signed up. After this, the attendees need to install a couple of tools to help work on code.
 
-You can find this session in the [presentations/get-signed-up-with-github](./presentations/get-signed-up-with-github/) folder.
+You can find this session in the [presentations/get-signed-up-with-github](./presentations/get-signed-up-with-github/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 Mentors will need to be on-hand to help attendees with any issues around sign up.
 
 ## Networking opportunity - connect on GitHub
 
-As a networking opportunity get attendees to find each other on GitHub and follow each other. This will not only foster connections between attendees, and make it easier to collaborate later on in the day, but it will also teach them about the [social connection side of GitHub](https://docs.github.com/get-started/exploring-projects-on-github/following-people).
+As a networking opportunity, get attendees to find each other on GitHub and follow each other. This will not only foster connections between attendees, and make it easier to collaborate later on in the day, but it will also teach them about the [social connection side of GitHub](https://docs.github.com/get-started/exploring-projects-on-github/following-people).
 
 > This must be optional so any attendees who do not wish to connect with others are not pressurized into doing so
 
@@ -74,7 +84,7 @@ The presenter should start by asking a mentor their GitHub handle, finding them 
 
 This session is to get attendees up to speed with GitHub concepts such as repos, commits and pull requests. In this session attendees will create a new repo for their GitHub profile.
 
-You can find this session in the [presentations/intro-to-github](./presentations/intro-to-github/) folder.
+You can find this session in the [presentations/intro-to-github](./presentations/intro-to-github/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 Mentors need to be on hand to provide support and unblock any attendees who hit issues.
 
@@ -110,6 +120,6 @@ This first contribution should be instructor led. The Instructor should:
 
 ## Wrap up
 
-At the end of the day, you will need to wrap up the first day. Take a moment to thank all the mentors, and give a very quick review of the day.
+At the end of the day, you will need to wrap up the first day. Take a moment to thank all the mentors, and give a very quick review of the day. Remind everyone to return the next day for a whole day focused on open source so they can learn to use their new skills to contribute to projects.
 
-Remind everyone to return the next day for a whole day focused on open source so they can learn to use their new skills to contribute to projects.
+You can find an example wrap up deck in the [presentations/day-1-wrap](./presentations/day-1-wrap/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
