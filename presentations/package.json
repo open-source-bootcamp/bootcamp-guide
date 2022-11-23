@@ -11,6 +11,7 @@
     "signup": "cd get-signed-up-with-github && slidev --open",
     "welcome": "cd welcome && slidev --open",
     "wrap1": "cd day-1-wrap && slidev --open",
-    "wrap2": "cd day-2-wrap && slidev --open"
+    "wrap2": "cd day-2-wrap && slidev --open",
+    "build-intro": "cd intro-to-github && slidev build slides.md --out ../../generated/web/intro-to-github"
   }
 }
