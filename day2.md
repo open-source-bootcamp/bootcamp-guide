@@ -58,6 +58,12 @@ Local speakers are better for this as an in-person event as they can stay around
 
 Check out the [Mentors section in the how to run this event guide](./how-to-run-this-event.md#mentors) for some suggestions on finding local speakers.
 
+Here are some sample talks that can be played if necessary, or can inspire local mentors to create their own talks.
+
+| Presenter | Talk |
+| --------- | ---- |
+| [Brenn Nieva](https://twitter.com/brennanieva) | [Overview of the GitHub campus experts program](https://youtu.be/XWcVMHOsW8s) |
+
 ## Lunch
 
 This is the same as [day 1](./day1.md#lunch).
