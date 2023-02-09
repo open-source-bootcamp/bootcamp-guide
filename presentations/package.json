@@ -9,6 +9,7 @@
     "signup": "cd get-signed-up-with-github && slidev --open",
     "welcome": "cd welcome && slidev --open",
     "wrap1": "cd day-1-wrap && slidev --open",
-    "wrap2": "cd day-2-wrap && slidev --open"
+    "wrap2": "cd day-2-wrap && slidev --open",
+    "contributing": "cd contributing-to-github && slidev --open"
   }
 }
