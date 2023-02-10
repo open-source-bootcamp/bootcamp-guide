@@ -3,19 +3,19 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: ''
-    handle: ''
+    website: 'alexkaehler.com/'
+    handle: 'PlausibleOrange'
     logoHeader: ''
 
 layout: intro
-introImage: ''
+introImage: 'https://pbs.twimg.com/profile_images/1558883059327307777/iVjC2SNe_400x400.jpg'
 ---
 
 # Introduction to GitHub
 
-### Name
+### Alex Kaehler
 
-Job title/company/other details
+Early in career full stack web developer
 
 <!-- 
 Hi, I am name.
