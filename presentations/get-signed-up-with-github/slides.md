@@ -3,19 +3,19 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: ''
-    handle: ''
+    website: 'jimbobbennett.dev'
+    handle: 'jimbobbennett'
     logoHeader: ''
 
 layout: intro
-introImage: ''
+introImage: 'https://jimbobbennett.dev/images/png/jim-portrait-circle.png'
 ---
 
 # Get signed up with GitHub
 
-### Name
+### Jim Bennett
 
-Job title/company/other details
+Senior Regional Cloud Advocate, Microsoft
 
 <!-- 
 Hi, I am name.
