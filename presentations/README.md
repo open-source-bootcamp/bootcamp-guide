@@ -34,12 +34,14 @@ To use the slides:
 
     **Day 1**
 
-    | Slides             | Script            |
-    | ------------------ | ----------------- |
-    | Welcome            | `npm run welcome` |
-    | Sign Up for GitHub | `npm run signup`  |
-    | Intro to GitHub    | `npm run intro`   |
-    | Day 1 wap up       | `npm run wrap1`   |
+    | Slides                                       | Script                   |
+    | -------------------------------------------- | ------------------------ |
+    | Welcome                                      | `npm run welcome`        |
+    | Sign Up for GitHub                           | `npm run signup`         |
+    | Intro to GitHub                              | `npm run intro`          |
+    | Make your first contribution to open source  | `npm run first-contrib`  |
+    | Make your second contribution to open source | `npm run second-contrib` |
+    | Day 1 wap up                                 | `npm run wrap1`          |
 
     **Day 2**
 

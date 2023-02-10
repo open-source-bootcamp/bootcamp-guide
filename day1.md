@@ -105,7 +105,7 @@ More details are provided in the [CubeFlyer](#cubeflyer) section.
 
 This first contribution should be instructor led. The Instructor should:
 
-1. Walk the attendees through how to access the code repo
+1. Walk the attendees through how to access the code repo by creating a new repo from [the CubeFlyer template repo](https://github.com/open-source-bootcamp/CubeFlyer)
 2. Get the attendees to fork the code
 3. Show the attendees how to launch and play the game
 4. Walk the attendees through the code structure
@@ -116,7 +116,13 @@ This first contribution should be instructor led. The Instructor should:
 9. Walk the attendees through resolving merge conflicts and updating their PR
 10. Get all the PRs merged
 
+You can find this session in the [presentations/make-your-first-contribution](./presentations/make-your-first-contribution/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
+
 ## Make your second contribution
+
+This second session gives the attendees time to work on issues in their teams. Using the skills they've learned so far they should work on any open issues in the teams CubeFlyer repo.
+
+You can find this session in the [presentations/make-your-second-contribution](./presentations/make-your-second-contribution/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 ## Wrap up
 
