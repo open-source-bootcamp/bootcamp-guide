@@ -3,19 +3,19 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: 'jimbobbennett.dev'
-    handle: 'jimbobbennett'
+    website: ''
+    handle: ''
     logoHeader: ''
 
 layout: intro
-introImage: 'https://jimbobbennett.dev/images/png/jim-portrait-circle.png'
+introImage: ''
 ---
 
 # Make your first contribution to an Open Source project
 
-### Jim Bennett
+### Name
 
-Senior Regional Cloud Advocate, Microsoft
+Job/title
 
 <!-- 
 Hi, I am name.

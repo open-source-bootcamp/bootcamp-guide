@@ -3,8 +3,8 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: 'jimbobbennett.dev'
-    handle: 'jimbobbennett'
+    website: ''
+    handle: ''
     logoHeader: ''
 
 layout: intro
