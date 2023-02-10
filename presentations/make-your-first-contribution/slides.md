@@ -24,6 +24,8 @@ This is an introduction that will walk you through your first contribution to a 
 
 Over the course of this session we're going to walk through how to start contributing to a public open source project with your peers.
 
+This will be hands on, with plenty of time for you to complete each section. Mentors are here to help, so if you get stuck let a mentor know!
+
 -->
 
 ---
