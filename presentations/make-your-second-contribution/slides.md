@@ -26,7 +26,7 @@ This session is all about making your second contribution to Flappy Cube!
 
 ---
 layout: image-center
-image: 'open-issues.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-second-contribution/open-issues.png'
 image-width: '780'
 ---
 
