@@ -54,7 +54,7 @@ The goal if this afternoon is to show you how you can collaborate on code using 
 
 ---
 layout: image-center
-image: cube-flyer.gif
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/cube-flyer.gif'
 image-width: '500'
 ---
 
@@ -141,13 +141,13 @@ Create a new repo using the Cube Flyer template
 
 ---
 layout: center
-image: qrcode-cube-flyer.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/qrcode-cube-flyer.png'
 image-width: '300'
 ---
 
 # github.com/open-source-bootcamp/CubeFlyer
 
-![QR code for github.com/open-source-bootcamp/CubeFlyer](qrcode-cube-flyer.png)
+![QR code for github.com/open-source-bootcamp/CubeFlyer](https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/qrcode-cube-flyer.png)
 
 <!--
 
@@ -157,7 +157,7 @@ Project owners only - if you are not a project owner, you don't need to do this 
 
 ---
 layout: image-center
-image: create-new-repo-from-template.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/create-new-repo-from-template.png'
 image-width: '800'
 ---
 &nbsp;
@@ -169,7 +169,7 @@ From the repo, select the **Use this template** button, then select create a new
 
 ---
 layout: image-center
-image: create-new-repo-details.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/create-new-repo-details.png'
 image-width: '530'
 ---
 &nbsp;
@@ -183,7 +183,7 @@ The public part is important!!!!!
 
 ---
 layout: image-center
-image: repo-from-template.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/repo-from-template.png'
 image-width: '680'
 ---
 &nbsp;
@@ -228,7 +228,7 @@ This is a pretty standard workflow, and what we are going to do here. We'll cove
 
 ---
 layout: image-center
-image: issue-add-more-greetings.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/issue-add-more-greetings.png'
 image-width: '800'
 ---
 
@@ -252,7 +252,7 @@ A fork is a complete copy of the code, including all history, that knows about t
 
 When you fork a repo, the 'golden source' is referred to as the _upstream_.
 
-![](forked-repo-cube-flyer.png)
+![](https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/forked-repo-cube-flyer.png)
 
 <!--
 
@@ -289,11 +289,11 @@ For example, if I fork a private <my employer> repo, I can't then make my fork p
 
 You fork a repo using the **Fork** button
 
-![](fork-repo-button.png)
+![](https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/fork-repo-button.png)
 
 ---
 layout: image-center
-image: create-fork-details.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/create-fork-details.png'
 image-width: '600'
 ---
 
@@ -355,7 +355,7 @@ Each block in this diagram is a complete repository, with all the code and histo
 
 ---
 layout: image-center
-image: clone-with-desktop.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/clone-with-desktop.png'
 image-width: '550'
 ---
 
@@ -371,7 +371,7 @@ You can clone using the `git` command line, using the GitHub CLI, or directly in
 
 ---
 layout: image-center
-image: github-desktop-clone.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-clone.png'
 image-width: '500'
 ---
 &nbsp;
@@ -383,7 +383,7 @@ Set the local path, and select **Clone**. This will create a local Git repositor
 
 ---
 layout: image-center
-image: github-desktop-open-in-vscode.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-open-in-vscode.png'
 image-width: '500'
 ---
 
@@ -397,7 +397,7 @@ Now you have the code, open it in VS Code. There should be an option on the main
 
 ---
 layout: image-center
-image: vscode-first-open-with-code.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/vscode-first-open-with-code.png'
 image-width: '600'
 ---
 
@@ -405,7 +405,7 @@ image-width: '600'
 
 ---
 layout: image-center
-image: cube-flyer.gif
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/cube-flyer.gif'
 image-width: '500'
 ---
 
@@ -424,7 +424,7 @@ Press any key to start the game, then use the space bar or left mouse button to 
 
 ---
 layout: image-center
-image: flying-cube-greeting.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/flying-cube-greeting.png'
 image-width: '600'
 ---
 # The greeting
@@ -439,7 +439,7 @@ Refresh to see different ones
 -->
 ---
 layout: image-center
-image: greetings-code.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/greetings-code.png'
 image-width: '580'
 ---
 
@@ -515,7 +515,7 @@ Once done, test our your code to see the new greeting - you may have to refresh 
 -->
 ---
 layout: image-center
-image: flying-cube-greeting-hello-world.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/flying-cube-greeting-hello-world.png'
 image-width: '600'
 ---
 
@@ -543,7 +543,7 @@ If you remember from this morning, we made a change then committed it. We need t
 
 ---
 layout: image-center
-image: code-source-control-tab.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/code-source-control-tab.png'
 image-width: '500'
 ---
 
@@ -561,7 +561,7 @@ Once you make this change, it is only local. If you look at your fork on GitHub,
 
 ---
 layout: image-center
-image: code-source-control-tab-sync-changes.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/code-source-control-tab-sync-changes.png'
 image-width: '500'
 ---
 
@@ -575,7 +575,7 @@ Use the Sync button to sync your changes to your fork. You will now be able to s
 
 ---
 layout: image-center
-image: github-commit-ahead-of-main.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-commit-ahead-of-main.png'
 image-width: '800'
 ---
 
@@ -589,7 +589,7 @@ If you look at your fork in GitHub, you will see you are 1 commit ahead of the u
 
 ---
 layout: image-center
-image: github-commit-ahead-of-main-hover.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-commit-ahead-of-main-hover.png'
 image-width: '800'
 ---
 
@@ -605,7 +605,7 @@ You can raise a PR by clicking on the _1 commit ahead_ message on your fork. Thi
 
 ---
 layout: image-center
-image: changes.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/changes.png'
 image-width: '680'
 ---
 &nbsp;
@@ -618,7 +618,7 @@ Select the **Create Pull request** button to create a pull request
 
 ---
 layout: image-center
-image: create-pr.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/create-pr.png'
 image-width: '680'
 ---
 &nbsp;
@@ -632,7 +632,7 @@ This is helpful to explain what the PR is for.
 
 ---
 layout: image-center
-image: pr.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/pr.png'
 image-width: '680'
 ---
 &nbsp;
@@ -671,7 +671,7 @@ We're not going to do this today. To test get the developer to show you their co
 
 ---
 layout: image-center
-image: pr-comment.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/pr-comment.png'
 image-width: '580'
 ---
 &nbsp;
@@ -686,7 +686,7 @@ Project owners - add a comment to the first pull request.
 
 ---
 layout: image-center
-image: pr-review-file-comments.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/pr-review-file-comments.png'
 image-width: '800'
 ---
 &nbsp;
@@ -726,7 +726,7 @@ Nope - we've intentionally added something that will make it hard
 
 ---
 layout: image-center
-image: merge-conflict-greeting.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/merge-conflict-greeting.png'
 image-width: '800'
 ---
 
@@ -743,7 +743,7 @@ You can fix these either locally, or as a part of the pull request.
 
 ---
 layout: image-center
-image: one-commit-ahead-one-behind.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/one-commit-ahead-one-behind.png'
 image-width: '800'
 ---
 
@@ -757,7 +757,7 @@ You will see your repo showing how many commits ahead and behind you are. In thi
 
 ---
 layout: image-center
-image: github-desktop-update-branch.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-update-branch.png'
 image-width: '600'
 ---
 
@@ -775,7 +775,7 @@ To fix the merge conflict, first you need both sets of changes. You can then dec
 
 ---
 layout: image-center
-image: github-desktop-merge-conflict-dialog.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-merge-conflict-dialog.png'
 image-width: '400'
 ---
 
@@ -865,7 +865,7 @@ const greetings = [
 
 ---
 layout: image-center
-image: github-desktop-merge-conflict-dialog-continue-merge.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-merge-conflict-dialog-continue-merge.png'
 image-width: '400'
 ---
 
@@ -884,7 +884,7 @@ Once merged, sync your changes in VS Code and raise a Pull Request.
 
 ---
 layout: image-center
-image: pr-with-merge-conflicts.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/pr-with-merge-conflicts.png'
 image-width: '500'
 ---
 
@@ -899,7 +899,7 @@ If you raise a PR that has conflicts (either conflicts when you raise it, or con
 
 ---
 layout: image-center
-image: github-merge-editor.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-merge-editor.png'
 image-width: '700'
 ---
 
@@ -916,7 +916,7 @@ Click the Resolve conflicts button to get a web editor to change the file
 
 ---
 layout: image-center
-image: github-merge-editor-code-fixed.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-merge-editor-code-fixed.png'
 image-width: '700'
 ---
 
@@ -933,7 +933,7 @@ Click the Resolve conflicts button to get a web editor to change the file
 
 ---
 layout: image-center
-image: github-merge-editor-code-marked-as-resolved.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-merge-editor-code-marked-as-resolved.png'
 image-width: '700'
 ---
 
@@ -951,7 +951,7 @@ Click the mark as resolved button to indicate the merge conflict is resolved.
 
 ---
 layout: image-center
-image: github-merge-editor-merge-dialog.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-merge-editor-merge-dialog.png'
 image-width: '600'
 ---
 
@@ -969,7 +969,7 @@ Commit merge will create a commit on your branch bringing in the changes from up
 
 ---
 layout: image-center
-image: pr-comment-merge-conflict-resolved.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/pr-comment-merge-conflict-resolved.png'
 image-width: '600'
 ---
 
@@ -986,6 +986,8 @@ Commit merge will create a commit on your branch bringing in the changes from up
 -->
 
 ---
+layout: center
+---
 
 # Now merge away!
 
@@ -999,7 +1001,7 @@ Merge conflicts don't happen that often as it is rare you'd have multiple develo
 
 ---
 layout: image-center
-image: github-issue-comment.png
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-issue-comment.png'
 image-width: '600'
 ---
 

@@ -116,6 +116,8 @@ This first contribution should be instructor led. The Instructor should:
 9. Walk the attendees through resolving merge conflicts and updating their PR
 10. Get all the PRs merged
 
+You can find this session in the [presentations/make-your-first-contribution](./presentations/make-your-first-contribution/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
+
 ## Make your second contribution
 
 ## Wrap up
