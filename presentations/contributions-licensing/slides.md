@@ -3,19 +3,19 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: ''
-    handle: ''
+    website: 'jimbobbennett.dev'
+    handle: 'jimbobbennett'
     logoHeader: ''
 
 layout: intro
-introImage: ''
+introImage: 'https://jimbobbennett.dev/images/png/jim-portrait-circle.png'
 ---
 
 # Contributing, CLAs, and Licensing
 
-### Name
+### Jim Bennett
 
-Job title/company/other details
+Senior Regional Cloud Advocate, Microsoft
 
 
 <!-- 
@@ -45,13 +45,13 @@ gradientColors: ['#8EC5FC', '#E0C3FC']
 
 <div v-click="2">
 
-- 🧑‍⚖️ **CLAs (Contributor Licensing Agreements)**
+- ⚖️ **Open Source Licensing**
 
 </div>
 
 <div v-click="3">
 
-- ⚖️ **Open Source Licensing**
+- 🧑‍⚖️ **CLAs (Contributor Licensing Agreements)**
 
 </div>
 
@@ -82,9 +82,9 @@ This session will cover the following topics:
 
 A quick overview of contributing to open source any why licenses are important
 
-Contributor license agreements
-
 Open source licensing
+
+Contributor license agreements
 
 Accounts - using your personal account or a company account
 
@@ -120,197 +120,7 @@ The project needs to protect itself against legal issues, and ensure the code is
 <!--
 When you make a contribution to an open source project, you can be to all intents and purposes anonymous.
 The project team is usually a small team of volunteers working for free, so they need to protect both themselves and the code they write.
--->
-
----
-
-# CLAs - Contributor Licensing Agreements
-
-These are an agreement between an open source project and it's contributor.
-
-<div v-click="1">
-
-CLAs define:
-
-</div>
-
-<div v-click="2">
-
-- Ownership
-
-</div>
-
-<div v-click="3">
-
-- Protection
-
-</div>
-
-<!--
-A CLA is an agreement between the open source project and all it's contributors. These are designed to protect the open source project from any claims of copyright infringement, license breaches or other legal issues.
-
-CLAs define ownership of the code, and the protections in place for the open source project
--->
-
----
-
-# Ownership
-
-When you submit code to an open source project, who owns the code?
-
-<!--
-When you submit code to an open source project, who actually owns the code?
-
-Do you own it - is it your unique intellectual property?
-
-Is it owned by your employer? If you wrote this code on company time then your employer owns it.
-
-Is it owned by another project and covered by a license that does not allow for re-use?
-
-If you submit code that is owned by someone else to an open source project, you are potentially making them liable for any claims that could be made against them - for example being sued by your employer for intellectual property theft.
-
--->
-
----
-
-# Ownership
-
-Part of a CLA is declaring that you have ownership of the code and are allowed to submit it to the open source repository.
-
-<!--
-
-When you sign a CLA you state that all the code you are submitting is code you are allowed to submit - either you own it, or your employer does and allows you to submit this code. You are also stating that it is not covered by a license that does not allow you to submit the code to the open source project.
-
--->
-
----
-
-# Transfer of ownership
-
-Once you submit the code, you transfer ownership to the open source project
-
-<!--
-The CLA also defines what happens when you submit the code.
-
-Once the code is submitted, it becomes the property of the open source project and you grant a perpetual worldwide irrevocable license to the code.
-
-This means the open source project owns it forever.
--->
-
----
-
-# Protection
-
-The CLA protects the open source project
-
-
-<!--
-Th CLA protects the project.
-
-If you submit code that you are not allowed to submit then you are to blame, not the project and you can be sued, not them.
-
-If your code infringes on any patents, you are liable, not the project.
-
-Once submitted you can't revoke any license and stop the project from using your code.
-
-Remember - most open source is run by volunteers in their spare time with minimal funding. The CLAs protect them.
-
--->
-
----
-layout: image-center
-image: https://imgs.xkcd.com/comics/dependency.png
-imageWidth: '250'
-imageHeight: '318'
----
-
-<!--
-
-Does anyone remember left pad? The owner of the left-pad JavaScript NPM package deleted it from NPM and most of the internet broke.
-
-Imagine if a contributor to a massively used project like Linux decided they were going to revoke the license to their code and it had to be removed. The CLA stops this happening.
-
-Imagine if the person creating a small but important part of the modern digital stack got sued and their project was deleted?
-
--->
-
----
-layout: image-center
-image: https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/contributions-licensing/ms-github-cla-bot.png
-imageWidth: '600'
-imageHeight: '277'
----
-
-# Signing CLAs
-
-Any project that requires you to sign a CLA will have a bot set up when you first raise a pull request.
-
-<!--
-
-When you first raise a PR against a repo that has a CLA, a bot will make you sign it, and you will not be able to have your code merged until you sign this.
-
-Once signed once, you don't need to sign it again.
-
-This is an example of a Microsoft bot where you 'sign' with a specific comment that includes your employer if necessary.
-
--->
-
----
-
-
-# How do I get started with a CLA?
-
-[cla-assistant.io](https://cla-assistant.io/)
-
-
-<!--
-
-If you want to add a CLA to your projects, the CLA assistant can help! Register your repo at cla-assistant.io and it will set everything up including a CLA and a bot to check PR submitters.
-
--->
-
----
-
-# An example CLA
-
-[opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf](https://opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf)
-
-3. Originality	of	Work.	You	represent	that	each	of	Your	Submissions	is	entirely	Your	original	work.	
-Should	You	wish	to	Submit	materials	that	are	not	Your	original	work,	You	may	Submit	them	separately	
-to	the	Project if	You	(a ) retain	all	copyright	and	license	information	that	was	in	the	materials	as	You	
-received	them,	(b ) in	the	description	accompanying	Your	Submission,	include	the	phrase	“Submission	
-containing	materials	of	a	third	party:”	followed	by	the	names	of	the	third	party	and	any	licenses	or	other	
-restrictions	of	which	You	are	aware,	and	(c ) follow	any	other	instructions	in	the	Project’s	written	
-guidelines	concerning Submissions.
-
-<!--
-Here is an example from the Microsoft CLA.
-
-You	represent	that	each	of	Your	Submissions	is	entirely	Your	original	work
-
-This means you are stating that the code is your own work and you own the copyright or license.
-It also has a clause that if they are not your original work, then you have to share all the details and licenses for the code you submit to prove you are allowed to submit it.
--->
-
----
-
-# An example CLA
-
-[opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf](https://opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf)
-
-5.	Licenses.	
-a.	Copyright	License.	You	grant	Microsoft,	and	those	who	receive	the	Submission directly	or	
-indirectly	from	Microsoft,	a	perpetual,	worldwide,	non-exclusive,	royalty-free,	irrevocable	license	in	the	
-Submission	to	reproduce,	prepare	derivative	works	of,	publicly	display,	publicly	perform,	and	distribute	
-the	Submission	and	such	derivative	works,	and	to	sublicense	any	or	all	of	the	foregoing	rights	to	third	
-parties.
-
-
-<!--
-Here is an example from the Microsoft CLA.
-
-You	grant	Microsoft a	perpetual,	worldwide,	non-exclusive,	royalty-free,	irrevocable	license to do whatever they like with the code.
-Royalty free so you can't ask Microsoft for money for your code at any point.
+This is why licensing and license agreements are so important.
 -->
 
 ---
@@ -337,7 +147,7 @@ Royalty free so you can't ask Microsoft for money for your code at any point.
 </div>
 
 <!--
-We are now looking at licenses. These are the legal agreements by which an open source company will make their code available.
+We are now looking at licenses. These are the legal agreements by which an open source project will make their code available.
 These define what you can do with the code, and what warranties and protections come with the code.
 
 There are many licenses, but the most popular are:
@@ -564,6 +374,198 @@ Check with a lawyer! Mozilla relicensed and it took years to get every contribut
 
 ---
 
+# CLAs - Contributor Licensing Agreements
+
+These are an agreement between an open source project and it's contributor.
+
+<div v-click="1">
+
+CLAs define:
+
+</div>
+
+<div v-click="2">
+
+- Ownership
+
+</div>
+
+<div v-click="3">
+
+- Protection
+
+</div>
+
+<!--
+A CLA is an agreement between the open source project and all it's contributors. These are designed to protect the open source project from any claims of copyright infringement, license breaches or other legal issues.
+
+CLAs define ownership of the code, and the protections in place for the open source project
+-->
+
+---
+
+# Ownership
+
+When you submit code to an open source project, who owns the code?
+
+<!--
+When you submit code to an open source project, who actually owns the code?
+
+Do you own it - is it your unique intellectual property?
+
+Is it owned by your employer? If you wrote this code on company time then your employer owns it.
+
+Is it owned by another project and covered by a license that does not allow for re-use?
+
+If you submit code that is owned by someone else to an open source project, you are potentially making them liable for any claims that could be made against them - for example being sued by your employer for intellectual property theft.
+
+-->
+
+---
+
+# Ownership
+
+Part of a CLA is declaring that you have ownership of the code and are allowed to submit it to the open source repository.
+
+<!--
+
+When you sign a CLA you state that all the code you are submitting is code you are allowed to submit - either you own it, or your employer does and allows you to submit this code. You are also stating that it is not covered by a license that does not allow you to submit the code to the open source project.
+
+-->
+
+---
+
+# Transfer of ownership
+
+Once you submit the code, you transfer ownership to the open source project
+
+<!--
+The CLA also defines what happens when you submit the code.
+
+Once the code is submitted, it becomes the property of the open source project and you grant a perpetual worldwide irrevocable license to the code.
+
+This means the open source project owns it forever.
+-->
+
+---
+
+# Protection
+
+The CLA protects the open source project
+
+
+<!--
+Th CLA protects the project.
+
+If you submit code that you are not allowed to submit then you are to blame, not the project and you can be sued, not them.
+
+If your code infringes on any patents, you are liable, not the project.
+
+Once submitted you can't revoke any license and stop the project from using your code.
+
+Remember - most open source is run by volunteers in their spare time with minimal funding. The CLAs protect them.
+
+-->
+
+---
+layout: image-center
+image: 'https://imgs.xkcd.com/comics/dependency.png'
+imageWidth: '300'
+---
+
+<!--
+
+Does anyone remember left pad? The owner of the left-pad JavaScript NPM package deleted it from NPM and most of the internet broke.
+
+Imagine if a contributor to a massively used project like Linux decided they were going to revoke the license to their code and it had to be removed. The CLA stops this happening.
+
+Imagine if the person creating a small but important part of the modern digital stack got sued and their project was deleted?
+
+-->
+
+---
+layout: image-center
+image: https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/contributions-licensing/ms-github-cla-bot.png
+imageWidth: '600'
+imageHeight: '277'
+---
+
+# Signing CLAs
+
+Any project that requires you to sign a CLA will have a bot set up when you first raise a pull request.
+
+<!--
+
+When you first raise a PR against a repo that has a CLA, a bot will make you sign it, and you will not be able to have your code merged until you sign this.
+
+Once signed once, you don't need to sign it again.
+
+This is an example of a Microsoft bot where you 'sign' with a specific comment that includes your employer if necessary.
+
+The employer is if you have permission to submit code on behalf of your employer
+
+-->
+
+---
+
+
+# How do I get started with a CLA?
+
+[cla-assistant.io](https://cla-assistant.io/)
+
+
+<!--
+
+If you want to add a CLA to your projects, the CLA assistant can help! Register your repo at cla-assistant.io and it will set everything up including a CLA and a bot to check PR submitters.
+
+-->
+
+---
+
+# An example CLA
+
+[opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf](https://opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf)
+
+3. Originality of Work. You represent that each of Your Submissions is entirely Your original work. 
+Should You wish to Submit materials that are not Your original work, You may Submit them separately 
+to the Project if You (a ) retain all copyright and license information that was in the materials as You 
+received them, (b ) in the description accompanying Your Submission, include the phrase “Submission 
+containing materials of a third party:” followed by the names of the third party and any licenses or other 
+restrictions of which You are aware, and (c ) follow any other instructions in the Project’s written 
+guidelines concerning Submissions.
+
+<!--
+Here is an example from the Microsoft CLA.
+
+You represent that each of Your Submissions is entirely Your original work
+
+This means you are stating that the code is your own work and you own the copyright or license.
+It also has a clause that if they are not your original work, then you have to share all the details and licenses for the code you submit to prove you are allowed to submit it.
+-->
+
+---
+
+# An example CLA
+
+[opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf](https://opensource.microsoft.com/pdf/microsoft-contribution-license-agreement.pdf)
+
+5. Licenses. 
+a. Copyright License. You grant Microsoft, and those who receive the Submission directly or 
+indirectly from Microsoft, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license in the 
+Submission to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute 
+the Submission and such derivative works, and to sublicense any or all of the foregoing rights to third 
+parties.
+
+
+<!--
+Here is an example from the Microsoft CLA.
+
+You grant Microsoft a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to do whatever they like with the code.
+Royalty free so you can't ask Microsoft for money for your code at any point.
+-->
+
+---
+
 # Contributing
 
 If you start an open source project, choose the license wisely. If you contribute, make sure you are happy with the license.
@@ -605,7 +607,7 @@ imageHeight: '400'
 
 <!--
 
-When you make contributions, is there a difference between doing it on your own time or company time?
+When you make contributions, is there a difference between doing it on your own time or company time? Are you allowed to make contributions?
 
 Yes and no - depends on the company.
 
@@ -657,7 +659,7 @@ This leads on to the question of should you have a separate GitHub account for w
 
 This depends - some folks prefer it to keep good separation. Others just use one. Again - check with your companies legal team.
 
-One upside of sharing an account especially if you work on open source as part of your job is to be able to publicly show your contributions to both personal and work projects. f you have separate accounts and you change jobs, your work account will be deleted and you will lose the ability to demonstrate your contributions.
+One upside of sharing an account especially if you work on open source as part of your job is to be able to publicly show your contributions to both personal and work projects. If you have separate accounts and you change jobs, your work account will be deleted and you will lose the ability to demonstrate your contributions.
 
 One downside is you may have SSH keys or other access tokens on non-company hardware. If this gets breached, then hackers could get access to corporate IP. If you have keys or other access tokens on a personal device your employer may require you to have certain protections installed to mitigate this.
 
@@ -697,7 +699,13 @@ gradientColors: ['#E0C3FC', '#8EC5FC']
 
 <div v-click="5">
 
-- 📣 Advocacy and more!
+- 📣 Advocacy
+
+</div>
+
+<div v-click="6">
+
+- 🧑‍💻 Code
 
 </div>
 
@@ -716,6 +724,8 @@ You can help with design of graphics, assets, diagrams for documentation
 You can help with the user interface design, or the user experience
 
 You can advocate for the project by writing blog posts, giving talks about it, recording videos, or creating sample projects to use it.
+
+And obviously you can contribute code!
 
 I'm not going to focus on all these areas, just one: documentation
 
