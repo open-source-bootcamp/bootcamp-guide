@@ -60,8 +60,8 @@ Check out the [Mentors section in the how to run this event guide](./how-to-run-
 
 Here are some sample talks that can be played if necessary, or can inspire local mentors to create their own talks.
 
-| Presenter | Talk |
-| --------- | ---- |
+| Presenter                                      | Talk                                                                          |
+| ---------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Brenn Nieva](https://twitter.com/brennanieva) | [Overview of the GitHub campus experts program](https://youtu.be/XWcVMHOsW8s) |
 
 ## Lunch
@@ -78,11 +78,13 @@ This 2-hour session is for attendees to make additional contributions to CubeFly
 
 The goal is to get the attendees thinking about the different ways they can contribute to open source projects, and learn new skills to work towards this goal.
 
-Before this section starts, you will need to create issues in the organizers CubeFlyer repo so the attendees have a place to communicate and document their work. Add these on day 2 so that folks don't work on these for day 1. We have created a GitHub action for you to automatically create these issues, and you can find the instructions in the [Set up CubeFlyer guide](./set-up-cubeflyer.md#day-2).
+Before this section starts, you will need to create issues in the project owners CubeFlyer repo so the attendees have a place to communicate and document their work. Add these on day 2 so that folks don't work on these for day 1. We have created a GitHub action for you to automatically create these issues, and you can find the instructions in the [Set up CubeFlyer guide](./set-up-cubeflyer.md#day-2).
 
 These tasks are intentionally vague in how they are to be implemented with minimal hand-holding, The aim is for teams to work out how to make what they think is a good contribution. Attendees should communicate in issues and PRs to ensure their though processes are documented and to help them get used to an asynchronous workflow, as often when working on open source projects you won't be in the same room as your co-contributors.
 
-Contributions should be made to the organizers CubeFlyer repository. The organizer should keep this repository around for a while after the event and work on helping to merge PRs so that attendees can carry on their learning after the event. The 'homework' for the attendees is to continue working on these contributions, collaborating with each other in GitHub issues and PRs.
+Contributions should be made to the project owners CubeFlyer repository. The organizer should keep this repository around for a while after the event and work on helping to merge PRs so that attendees can carry on their learning after the event. The 'homework' for the attendees is to continue working on these contributions, collaborating with each other in GitHub issues and PRs.
+
+You can find this session in the [presentations/team-contributions](./presentations/team-contributions/) folder. Instructions on using this deck are in the [README in the presentations folder](./presentations/README.md).
 
 ### Project management
 
@@ -136,10 +138,6 @@ An a **user interface** team, you have been tasked with:
 * Changing the cube for a different object
 * Improving the look of the columns
 * Making general improvements to the user interface such as color schemes, fonts, or the layout
-
-<!--
-    @runewake2 - can you add guidance here including links to relevant babylonjs docs.
--->
 
 ### Continuous integration and deployment
 
