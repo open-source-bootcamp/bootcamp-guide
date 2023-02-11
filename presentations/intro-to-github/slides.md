@@ -13,9 +13,9 @@ introImage: ''
 
 # Introduction to GitHub
 
-### Name
+### Alex Kaehler
 
-Job/title
+OSS Contributor
 
 <!-- 
 Hi, I am name.
@@ -92,7 +92,7 @@ Ignore the instruction to click around in the class repository, that is for watc
 
 ---
 layout: image-center
-image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/github-profile-jimbobbennett.png?raw=true'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/github-profile-alexkaehler.png?raw=true'
 imageWidth: '800'
 ---
 
