@@ -45,10 +45,11 @@ To use the slides:
 
     **Day 2**
 
-    | Slides                            | Script              |
-    | --------------------------------- | ------------------- |
-    | Licensing, CLAs and Contributions | `npm run licensing` |
-    | Day 2 wap up                      | `npm run wrap2`     |
+    | Slides                            | Script                 |
+    | --------------------------------- | ---------------------- |
+    | Licensing, CLAs and Contributions | `npm run licensing`    |
+    | Team Contributions                | `npm run team-contrib` |
+    | Day 2 wap up                      | `npm run wrap2`        |
 
 2. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
