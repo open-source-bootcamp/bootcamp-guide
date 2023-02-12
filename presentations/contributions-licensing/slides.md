@@ -635,7 +635,7 @@ Check with your corporate legal team before making any contributions if it is no
 
 # Personal contributions
 
-Be warned - your employer may contractually own everything you do. The certainly own everything you do using company resources.
+Be warned - your employer may contractually own everything you do. They certainly own everything you do using company resources.
 
 <!--
 
