@@ -3,17 +3,22 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: 'jimbobbennett.dev'
-    handle: 'jimbobbennett'
+    website: ''
+    handle: ''
     logoHeader: ''
 
 layout: intro
-introImage: 'https://jimbobbennett.dev/images/png/jim-portrait-circle.png'
+introImage: ''
 ---
 
 # Team contribution time!
 
-<!--
+### Name
+
+Job/title
+
+<!-- 
+Hi, I am name.
 
 For this afternoon we are going to continue making contributions. This time, we're going to think about the different ways we can contribute to our CubeFlyer project
 
