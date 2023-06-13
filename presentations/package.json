@@ -5,8 +5,8 @@
   },
   "scripts": {
     "welcome": "cd welcome && slidev --open",
-    "intro": "cd intro-to-github && slidev --open",
     "signup": "cd get-signed-up-with-github && slidev --open",
+    "intro": "cd intro-to-github && slidev --open",
     "first-contrib": "cd make-your-first-contribution && slidev --open",
     "second-contrib": "cd make-your-second-contribution && slidev --open",
     "wrap1": "cd day-1-wrap && slidev --open",

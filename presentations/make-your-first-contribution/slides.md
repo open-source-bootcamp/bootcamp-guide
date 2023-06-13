@@ -385,6 +385,20 @@ Set the local path, and select **Clone**. This will create a local Git repositor
 
 ---
 layout: image-center
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-contribute-to-parent-dialog.png'
+image-width: '350'
+---
+
+&nbsp;
+
+<!--
+
+GitHub desktop will ask how you plan to use this repository. Select contribute to the parent project and click continue.
+
+-->
+
+---
+layout: image-center
 image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-open-in-vscode.png'
 image-width: '500'
 ---
@@ -404,6 +418,20 @@ image-width: '600'
 ---
 
 &nbsp;
+
+---
+layout: image-center
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/vscode-trust.png'
+image-width: '400'
+---
+
+# Trust the folder
+
+<!--
+
+VS Code allows you to open folders as trusted or untrusted. Untrusted folders means you cant execute code - avoiding executing malicious code. We need to trust this folder, so select Yes, I Trust the authors.
+
+-->
 
 ---
 layout: image-center

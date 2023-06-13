@@ -30,23 +30,15 @@ In this session you will all be contributing to your own repositories. In the ne
 
 # How does GitHub work?
 
-GitHub is a collaboration platform that uses Git for versioning. GitHub is a popular place to share and contribute to open-source software.
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. 
+
+GitHub is a collaboration platform that uses Git for source code version control. GitHub is a popular place to share and contribute to open-source software.
 
 <!--
 
-GitHub is a collaboration platform that uses Git for versioning. GitHub is a popular place to share and contribute to open-source software.
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. 
 
--->
-
----
-layout: center
----
-
-<iframe width="728" height="410" src="https://www.youtube.com/embed/w3jLJU7DT5E?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--
-
-Play this video, ideally in full screen, to give an introduction to GitHub.
+GitHub is a collaboration platform that uses Git for source code version control. GitHub is a popular place to share and contribute to open-source software.
 
 -->
 
@@ -73,20 +65,6 @@ A repository or 'repo' is a project containing files and folders. A repository t
 A repo is a project containing files and folders with project code, images, and other assets. It tracks versions of your code, including who contributed these.
 
 On GitHub a repository also has additional features including tools for tracking issues, which are items to be done such as code features or bug reports, and actions that are code that is run at times such as when your code changes. These actions can do things like run tests, or deploy a new version of your project.
-
--->
-
----
-layout: center
----
-
-<iframe width="728" height="410" src="https://www.youtube.com/embed/R8OAwrcMlRw?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--
-
-Play this video, ideally in full screen, to give an introduction to repositories in GitHub. This is an older video, so be aware that the user interface (UI) has changed since this video was released.
-
-Ignore the instruction to click around in the class repository, that is for watching this video as part of GitHub classroom learning.
 
 -->
 
@@ -247,20 +225,6 @@ On additional branches, you can make edits without impacting the **main** versio
 Branches are parallel version of your code. You have to have at least one branch, and by default this is called main. You can make additional branches off of main to allow you to work on code without impacting main. You can then merge these changes back on to main (or to another branch if you wish). This will be covered later in this session.
 
 In the past the default branch was known as the master branch, but this terminology is being phased out to be more inclusive and replaced by main. You may still see master being used in older repositories.
-
--->
-
----
-layout: center
----
-
-<iframe width="728" height="410" src="https://www.youtube.com/embed/xgQmu81G1yY?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--
-
-Play this video, ideally in full screen, to give an introduction to branches. This is an older video, so be aware that the user interface (UI) has changed since this video was released. 
-
-This video also refers to master instead of main.
 
 -->
 
@@ -568,23 +532,6 @@ This may seem strange when it's just you working on your code, but pull requests
 
 -->
 
-
----
-layout: center
----
-
-<iframe width="728" height="410" src="https://www.youtube.com/embed/kJr-PIfLDl4?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--
-
-Play this video, ideally in full screen, to give an introduction to pull requests. This is an older video, so be aware that the user interface (UI) has changed since this video was released. 
-
-This file refers to issues. These will be covered later in this bootcamp.
-
-This video also refers to master instead of main.
-
--->
-
 ---
 layout: image-center
 image: 'https://github.com/open-source-bootcamp/bootcamp-guide/blob/main/presentations/intro-to-github/raise-pr-1.png?raw=true'
@@ -722,21 +669,6 @@ A merge adds the changes in your pull request and branch into the *main* branch.
 <!--
 
 Merging is the act of applying your pull request to pull the changes into the target branch, in this case the main branch.
-
--->
-
-
----
-layout: center
----
-
-<iframe width="728" height="410" src="https://www.youtube.com/embed/PBI2Rz-ZOxU?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--
-
-Play this video, ideally in full screen, to give an introduction to pull requests. This is an older video, so be aware that the user interface (UI) has changed since this video was released. 
-
-This video also refers to master instead of main.
 
 -->
 
