@@ -407,6 +407,20 @@ image-width: '600'
 
 ---
 layout: image-center
+image: './vscode-trust.png'
+image-width: '400'
+---
+
+# Trust the folder
+
+<!--
+
+VS Code allows you to open folders as trusted or untrusted. Untrusted folders means you cant execute code - avoiding executing malicious code. We need to trust this folder, so select Yes, I Trust the authors.
+
+-->
+
+---
+layout: image-center
 image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/cube-flyer.gif'
 image-width: '500'
 ---
