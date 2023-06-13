@@ -385,6 +385,20 @@ Set the local path, and select **Clone**. This will create a local Git repositor
 
 ---
 layout: image-center
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-contribute-to-parent-dialog.png'
+image-width: '350'
+---
+
+&nbsp;
+
+<!--
+
+GitHub desktop will ask how you plan to use this repository. Select contribute to the parent project and click continue.
+
+-->
+
+---
+layout: image-center
 image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/github-desktop-open-in-vscode.png'
 image-width: '500'
 ---
@@ -407,7 +421,7 @@ image-width: '600'
 
 ---
 layout: image-center
-image: './vscode-trust.png'
+image: 'https://github.com/open-source-bootcamp/bootcamp-guide/raw/main/presentations/make-your-first-contribution/vscode-trust.png'
 image-width: '400'
 ---
 
