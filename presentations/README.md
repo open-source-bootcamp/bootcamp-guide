@@ -71,7 +71,7 @@ To use the slides:
 
     Select the image below for a video of this session.
 
-    [![Get signed up for GitHub](./img/get-signed-up-thumb.png)](https://youtu.be/tYZjLRc4GlA)
+    [![Get signed up for GitHub](https://img.youtube.com/vi/tYZjLRc4GlA/0.jpg)](https://youtu.be/tYZjLRc4GlA)
 
     This includes a slide for the GitHub student developer pack. If your audience does not include students then remove this slide. Instructions to do this are inline in the `slides.md` file.
 
@@ -79,11 +79,19 @@ To use the slides:
 
     Select the image below for a video of this session.
 
-    [![Introduction to GitHub](./img/intro-thumb.png)](https://youtu.be/uv5qw3kfbQs)
+    [![Introduction to GitHub](https://img.youtube.com/vi/uv5qw3kfbQs/0.jpg)](https://youtu.be/uv5qw3kfbQs)
 
-    These slides have embedded YouTube videos. You will need to ensure you are presenting in a way that the audience can hear the audio from your computer. If not, you **MUST** turn on captions on the videos. Ideally captions should always be turned on.
+    These slides have an embedded YouTube video. You will need to ensure you are presenting in a way that the audience can hear the audio from your computer. If not, you **MUST** turn on captions on the videos. Ideally captions should always be turned on.
 
     There is also an image of a GitHub profile taken from [@JimBobBennett](https://github.com/JimBobBennett). Replace this with an equivalent screenshot of your own GitHub profile.
+
+* [Make your first contribution to open source](./make-your-first-contribution/)
+
+    This deck wals attendees through making a contribution to a canned open source project. This is designed for small teams, with one team mamber working as a 'project owner'. This owner has the golden source version of the respository, and the other team members will fork it and raise pull requests.
+
+* [Make your second contribution to open source](./make-your-second-contribution/)
+
+    This deck walks attendees through making more contributions to the canned open source project.
 
 * [Day 1 wrap up](./day-1-wrap/)
 
@@ -93,7 +101,17 @@ To use the slides:
 
 * [Contributions, CLAs, and License agreements](./contributions-licensing/)
 
-* [Day 2 wrap up](./day-1-wrap/)
+    Select the image below for a video of this session.
+
+    [![Contributions, CLAs, and License agreements](https://img.youtube.com/vi/Eg4-b-RL4Lc/0.jpg)](https://youtu.be/Eg4-b-RL4Lc)
+
+    These slides contain information on the legal side of open source contributions. Unless the presenter is a software lawyer it is important to share that this is not legal advice, and any questions should be directed to a software lawyer.
+
+* [Team Contributions](./team-contributions/)
+
+    This deck walks attendees through making more contributions to the canned open source project in teams. As a part of running this session, the project owner needs to run a GitHub action to create issues.
+
+* [Day 2 wrap up](./day-2-wrap/)
 
     This deck wraps up the entire event. You will need to make any relevant changes to call out any specific activities that took place over this event, and optionally to thank mentors, speakers and event staff in person.
 

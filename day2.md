@@ -60,9 +60,11 @@ Check out the [Mentors section in the how to run this event guide](./how-to-run-
 
 Here are some sample talks that can be played if necessary, or can inspire local mentors to create their own talks.
 
-| Presenter                                      | Talk                                                                          |
-| ---------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Brenn Nieva](https://twitter.com/brennanieva) | [Overview of the GitHub campus experts program](https://youtu.be/XWcVMHOsW8s) |
+| Presenter                                           | Talk                                                                          |
+| --------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Brenn Nieva](https://twitter.com/brennanieva)      | [Overview of the GitHub campus experts program](https://youtu.be/XWcVMHOsW8s) |
+| [Apollo Zhu](https://twitter.com/zhuzhiyu_)         | [Git Apply - Open Source and career growth](https://youtu.be/l5P9NxbPUrU)     |
+| [Austin Akers](https://twitter.com/tweetmonster999) | [My open source origin story](https://youtu.be/7bKwNtjxphY)                   |
 
 ## Lunch
 
