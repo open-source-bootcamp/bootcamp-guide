@@ -49,7 +49,7 @@ layout: center
 
 <!--
 
-In your teams, work on the issues. You can either pick one issue per team member, or have multiple team members collaborating. The goal is to get the issues merged into the project owners repo.
+In your teams, work on the issues. You can either pick one issue per team member, or have multiple team members collaborating. The goal is to get the issues merged into the project maintainers repo.
 Mentors are here to help!
 
 -->

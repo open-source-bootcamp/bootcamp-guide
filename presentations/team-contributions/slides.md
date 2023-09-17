@@ -48,13 +48,13 @@ image: 'actions.png'
 image-width: '800'
 ---
 
-# Project owners - create issues
+# Project maintainers - create issues
 
 We have created a GitHub action to create issues for this afternoon
 
 <!--
 
-Project owners - in the upstream repo, select the Actions tab
+Project maintainers - in the upstream repo, select the Actions tab
 Select the _Create issues for day 2 on demand_ action, then select run workflow then run workflow.
 This will automatically create issues for this afternoon. Give the workflow a few minutes to run and the issues will be created.
 
@@ -97,7 +97,7 @@ In your teams, pick an issue to work on
 > * Adding issue templates
 > * Adding relevant protections to ensure compliance to the contribution rules
 >
-> For some of these tasks, members of your team may need admin rights on the repository. The project owner should be able to enforce this
+> For some of these tasks, members of your team may need admin rights on the repository. The project maintainer should be able to enforce this
 
 ---
 
@@ -191,7 +191,7 @@ layout: center
 
 <!--
 
-Project owners - decide which issue you want to work on.
+Project maintainers - decide which issue you want to work on.
 
 When you have decided, lets form groups based off interest and get to work
 

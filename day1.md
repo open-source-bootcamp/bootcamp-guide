@@ -48,7 +48,7 @@ You **must** provide a code of conduct, and enforce this. This code of conduct d
 
 If anyone breaches the code of conduct they **must** be removed from the event, so ensure either you or one of the mentors (or event staff or security if your venue has these) are willing and able to do so. If attendees do not leave when instructed then you should call any relevant building security or the local police.
 
-It is helpful to also provide a phone number or email address to communicate code of conduct breaches. 
+It is helpful to also provide a phone number or email address to communicate code of conduct breaches.
 
 If you do not already have a code of conduct for your event, there are plenty of great examples around you can use to create your own. Also check with the event venue as they may already have one that all attendees must adhere to (for example, all Microsoft Reactor events are covered by a code of conduct defined and enforced by Microsoft).
 

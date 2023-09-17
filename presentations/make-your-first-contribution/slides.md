@@ -86,16 +86,16 @@ Form teams of up to 4 people. You will be working in teams, similar to how devel
 layout: center
 ---
 
-# Pick a project owner
+# Pick a project maintainer
 
 <!--
-The project owner will own the golder source version of the code, and the rest of the team will make contributions to the owners code base
+The project maintainer will own the golder source version of the code, and the rest of the team will make contributions to the maintainers code base
 -->
 
 ---
 
 
-# Why a project owner?
+# Why a project maintainer?
 
 - Git is a _distributed version control system_, each person has a full copy of the code and all history
 - Being distributed, anyone can send code to anyone
@@ -114,7 +114,7 @@ When we release a new version of Cube Flyer, we want to ensure we have everyone'
 
 The GitHub way is the organization owns the golden source repo, and developers fork the code. We will cover forks in a minute.
 
-The project owner here will act like an organization and 'own' the golden source of the code
+The project maintainer here will act like an organization and 'own' the golden source of the code
 
 -->
 
@@ -122,7 +122,7 @@ The project owner here will act like an organization and 'own' the golden source
 
 # The golden source
 
-The golden source will be a new repo that the project owner will create that contains the Cube Flyer code.
+The golden source will be a new repo that the project maintainer will create that contains the Cube Flyer code.
 
 We have a 'template repo' you can use to create this.
 
@@ -137,7 +137,7 @@ This is essentially a repo that you use to pre-fill code and other files into a 
 
 ---
 
-# Project owners only - create the golden source
+# Project maintainers only - create the golden source
 
 Create a new repo using the Cube Flyer template
 
@@ -153,7 +153,7 @@ image-width: '300'
 
 <!--
 
-Project owners only - if you are not a project owner, you don't need to do this step. You will get your code later.
+Project maintainers only - if you are not a project maintainer, you don't need to do this step. You will get your code later.
 
 -->
 
@@ -209,7 +209,7 @@ Issues are GitHubs way of tracking work. You raise an issue with a description o
 
 Issues can be linked to a pull request, so once the PR is merged, the issue is closed.
 
-We've set up the CubeFlyer repo to automatically create 5 issues, and we are going to work on the first one now. Only the 'product owner' with the golden source repo will see issues, these are not in the forks.
+We've set up the CubeFlyer repo to automatically create 5 issues, and we are going to work on the first one now. Only the 'product maintainer' with the golden source repo will see issues, these are not in the forks.
 
 -->
 
@@ -301,9 +301,9 @@ image-width: '600'
 
 ---
 
-# The team needs to fork the project owner's repo
+# The team needs to fork the project maintainer's repo
 
-- Project owners - share the repo URL with the team
+- Project maintainers - share the repo URL with the team
 - Team members - create a fork of the repo
 
 ---
@@ -710,7 +710,7 @@ image-width: '580'
 
 The _Conversation_ tab shows PR details such as commits, comments and more. This is the place for general conversation around the PR - such as 'have you tested scenario X', 'what does this code do?'.
 
-Project owners - add a comment to the first pull request.
+Project maintainers - add a comment to the first pull request.
 
 -->
 
@@ -730,7 +730,7 @@ A review is a way of listing one or more changes or questions that need to be ad
 
 ---
 
-# Project owners - merge the first PR!
+# Project maintainers - merge the first PR!
 
 Once you are happy with the change, merge that first PR.
 
@@ -742,7 +742,7 @@ To merge, click merge pull request, then confirm merge. This is the same as you 
 
 ---
 
-# Project owners - merge the second PR
+# Project maintainers - merge the second PR
 
 Should be easy, right?
 
@@ -1041,7 +1041,7 @@ Once you are done with adding greetings, you can close the issue, ideally with a
 
 <!--
 
-Once an issue is resolved, the project owner can close it. Ideally you should add comments explaining what was done. You can link PRs or other issues using # then the number
+Once an issue is resolved, the project maintainer can close it. Ideally you should add comments explaining what was done. You can link PRs or other issues using # then the number
 The issue will be marked as closed and will be hidden from the default issues tab. You can find it by changing the issues tab filters.
 
 -->

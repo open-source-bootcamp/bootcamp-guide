@@ -87,7 +87,7 @@ To use the slides:
 
 * [Make your first contribution to open source](./make-your-first-contribution/)
 
-    This deck wals attendees through making a contribution to a canned open source project. This is designed for small teams, with one team mamber working as a 'project owner'. This owner has the golden source version of the respository, and the other team members will fork it and raise pull requests.
+    This deck walks attendees through making a contribution to a canned open source project. This is designed for small teams, with one team member working as a 'project maintainer'. This maintainer has the golden source version of the repository, and the other team members will fork it and raise pull requests.
 
 * [Make your second contribution to open source](./make-your-second-contribution/)
 
@@ -109,7 +109,7 @@ To use the slides:
 
 * [Team Contributions](./team-contributions/)
 
-    This deck walks attendees through making more contributions to the canned open source project in teams. As a part of running this session, the project owner needs to run a GitHub action to create issues.
+    This deck walks attendees through making more contributions to the canned open source project in teams. As a part of running this session, the project maintainer needs to run a GitHub action to create issues.
 
 * [Day 2 wrap up](./day-2-wrap/)
 
