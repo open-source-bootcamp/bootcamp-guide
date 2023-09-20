@@ -13,6 +13,8 @@
 
     "licensing": "cd contributions-licensing && slidev --open",
     "team-contrib": "cd team-contributions && slidev --open",
-    "wrap2": "cd day-2-wrap && slidev --open"
+    "wrap2": "cd day-2-wrap && slidev --open",
+
+    "running-the-event": "cd running-the-event && slidev --open"
   }
 }

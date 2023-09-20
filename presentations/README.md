@@ -51,9 +51,15 @@ To use the slides:
     | Team Contributions                | `npm run team-contrib` |
     | Day 2 wap up                      | `npm run wrap2`        |
 
-2. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
+    **Extras**
 
-3. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required. The speaker notes are included as HTML comments in the markdown in the `slide.md` files.
+    | Slides             | Script                      |
+    | ------------------ | --------------------------- |
+    | Running this event | `npm run running-the-event` |
+
+1. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
+
+1. If you want to access speaker notes, you can get to these from [localhost:3030/presenter](http://localhost:3030/presenter/). This presenter view will allow you to control the slide deck, see the current and next slide, see the speaker notes, and annotate the slide if required. The speaker notes are included as HTML comments in the markdown in the `slide.md` files.
 
 > This repo is designed to work with development containers inside VS Code. If you open this repo in the dev container in VS Code, Sli.Dev will be automatically installed in the container, so you just need to run the relevant `run` command to launch the presentation. You will need Docker or other Docker CLI compliant container engine running to open the development container. You can read more on development containers in the [VS Code Developing inside a container documentation](https://code.visualstudio.com/docs/devcontainers/containers).
 >
@@ -114,6 +120,12 @@ To use the slides:
 * [Day 2 wrap up](./day-2-wrap/)
 
     This deck wraps up the entire event. You will need to make any relevant changes to call out any specific activities that took place over this event, and optionally to thank mentors, speakers and event staff in person.
+
+### Extras
+
+* [Running this event](./event-best-practices/)
+
+    This deck gives an overview how to run this event. This is designed for experienced organizers to use to skill up folks who want to run this event themselves.
 
 ## FAQ
 
