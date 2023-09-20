@@ -64,6 +64,9 @@ This is a photo from the first time this event was run at the Microsoft Reactor 
 -->
 
 ---
+layout: table-contents
+gradientColors: ['#8EC5FC', '#E0C3FC']
+---
 
 # So what is the open source bootcamp?
 
@@ -131,6 +134,9 @@ Pretty much the only thing you need in addition to this repo is a venue, food, w
 
 -->
 
+---
+layout: table-contents
+gradientColors: ['#8EC5FC', '#E0C3FC']
 ---
 
 # The event in a box contains:
@@ -787,6 +793,8 @@ All the content for this talk is provided in the slide deck. Always clarify that
 
 This sounds like a scary topic, but everyone needs a basic understanding of what it means to sign a CLA, and how to find out what open source can be used, and what restrictions there are.
 
+This can be a dry topic, so if you have a speaker with a fun personality, this can be a good session for them to do.
+
 -->
 
 ---
@@ -853,10 +861,14 @@ The aim of this section is to introduce the many ways that folks can contribute.
 -->
 
 ---
+layout: image-center
+image: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/team-contributions/new-issues.png'
+image-width: '800'
+---
 
 # Day 2 - Team contributions to CubeFlyer
 
-Create the issues by running an action
+Create the issues by running an action in the Cube Flyer repo.
 
 <!--
 
@@ -871,6 +883,8 @@ The mentors will then need to support the attendees as they look at these issues
 # Day 2 - Wrap up
 
 Wrap up the event with a recap, and thank all the mentors, speakers and attendees!
+
+As an optional networking activity, you can ask folks to connect with each other on LinkedIn to keep networking after the event.
 
 Now is also a good time to collect feedback. Add anything of note to the discussions in the bootcamp guide repo.
 
@@ -893,12 +907,12 @@ You should also ask maintainers to keep their repos around for a while so folks 
 ## What if an attendee can only attend 1 day?
 If they can only attend the first day, this is fine as this teaches the concepts
 <br/>
-If they can only attend the second day, this is also fine if they are already used to using GitHub and know how to do the tasks from day 1. if they are completely new to GitHub, then they may struggle with the second part of the day.
+If they can only attend the second day, this is also fine if they are already used to using GitHub and know how to do the tasks from day 1. If they are completely new to GitHub, then they may struggle with the second part of the day.
 
 ## I really need to do this remotely
 We've never run this remotely, but if you do want to do so:
-- make sure you have reliable maintainers, ideally mentors as maintainers
-- have a good platform to share the talks and chat, such as Discord
+- Make sure you have reliable maintainers, ideally mentors as maintainers
+- Have a good platform to share the talks and chat, such as Discord
 - Be aware of when maintainers or team members drop off, and be ready to connect folks to new teams
 
 ---

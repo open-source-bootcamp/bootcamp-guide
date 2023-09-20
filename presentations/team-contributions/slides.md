@@ -44,7 +44,7 @@ We have defined some issues for you for this afternoon, and automated creating t
 
 ---
 layout: image-center
-image: 'actions.png'
+image: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/team-contributions/actions.png'
 image-width: '800'
 ---
 
@@ -62,7 +62,7 @@ This will automatically create issues for this afternoon. Give the workflow a fe
 
 ---
 layout: image-center
-image: 'new-issues.png'
+image: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/team-contributions/new-issues.png'
 image-width: '800'
 ---
 

@@ -148,7 +148,7 @@ Then find an open source project you are interested in, and look into how you ca
 
 ---
 layout: intro
-introImage: 'linked-in.png'
+introImage: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/day-2-wrap/linked-in.png'
 ---
 
 # Final networking activity
