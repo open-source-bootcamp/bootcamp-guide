@@ -26,7 +26,7 @@ This is an introduction/train the trainer to the open source bootcamp. It covers
 
 ---
 layout: image-center
-image: 'qrcode_github.com.png'
+image: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/running-the-event/qrcode_github.com.png'
 image-width: '300'
 ---
 
@@ -46,7 +46,7 @@ You can use this QR code to access it, or go to github.com/open-source-bootcamp
 
 ---
 layout: image-center
-image: 'first-event.png'
+image: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/running-the-event/first-event.png'
 image-width: '800'
 ---
 
@@ -609,7 +609,7 @@ Get attendees to form teams and pick a maintainer.
 
 ---
 layout: image-center
-image: 'qrcode_cubeflyer.png'
+image: 'https://raw.githubusercontent.com/open-source-bootcamp/bootcamp-guide/main/presentations/running-the-event/qrcode_cubeflyer.png'
 image-width: '300'
 ---
 
