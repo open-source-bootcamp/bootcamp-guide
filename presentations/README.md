@@ -53,9 +53,9 @@ To use the slides:
 
     **Extras**
 
-    | Slides                                | Script                  |
-    | ------------------------------------- | ----------------------- |
-    | Best practices for running this event | `npm run best-practice` |
+    | Slides             | Script                      |
+    | ------------------ | --------------------------- |
+    | Running this event | `npm run running-the-event` |
 
 1. This will launch Sli.Dev on your local host at port 3030. You can open the slide deck at [localhost:3030](http://localhost:3030).
 
@@ -123,9 +123,9 @@ To use the slides:
 
 ### Extras
 
-* [Best practices for running this event](./event-best-practices/)
+* [Running this event](./event-best-practices/)
 
-    This deck gives an overview of best practices for running this event. This is designed for experienced organizers to use to skill up folks who want to run this event themselves.
+    This deck gives an overview how to run this event. This is designed for experienced organizers to use to skill up folks who want to run this event themselves.
 
 ## FAQ
 

@@ -255,7 +255,7 @@ gradientColors: ['#8EC5FC', '#E0C3FC']
 
 * **09:30 - Breakfast** 🥐☕️
 * **10:00 - Welcome and kick off**
-* **10:15 - Networking activity - Scavenger hunt**
+* **10:15 - Networking activity - CubeFlyer challenge**
 * **10:30 - Contributing, CLAs, and Licensing**
 * **11:00 - A talk on something**
 * **11:30 - A talk on something**

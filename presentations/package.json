@@ -15,6 +15,6 @@
     "team-contrib": "cd team-contributions && slidev --open",
     "wrap2": "cd day-2-wrap && slidev --open",
 
-    "best-practice": "cd event-best-practices && slidev --open"
+    "running-the-event": "cd running-the-event && slidev --open"
   }
 }
