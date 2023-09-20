@@ -3,24 +3,19 @@ theme: unicorn
 colorSchema: 'light'
 
 defaults:
-    website: 'jimbobbennett.dev'
-    handle: 'jimbobbennett'
+    website: ''
+    handle: ''
     logoHeader: ''
 
 layout: intro
-introImage: 'https://github.com/jimbobbennett/jimbobbennett/blob/main/images/LGPC_JimBennett_Portrait11_square.jpg?raw=true'
+introImage: ''
 ---
 
 # Open source bootcamp - running the event
 
-### Jim Bennett
+### Name
 
-Principal Developer Advocate
-
-<br/>
-<br/>
-
-![](Logo-Black.svg)
+Job/title
 
 <!-- 
 Hi, I am name.
