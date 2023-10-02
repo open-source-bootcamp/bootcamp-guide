@@ -30,6 +30,10 @@ This bootcamp is designed to run as a 2-day in-person event:
 
 ## How to run this event
 
+Here's a video walkthrough of this event, with information on how to plan and run it, and some best practices. Click on the video to watch it.
+
+[![Open Source Bootcamp - how to run this event and  best practices](https://img.youtube.com/vi/nOydYqQBrWE/0.jpg)](https://youtu.be/nOydYqQBrWE)
+
 Check out our [how to run this event guide](./how-to-run-this-event.md) for tips on organizing and running this event.
 
 ## Get in touch
